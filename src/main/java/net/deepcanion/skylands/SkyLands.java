@@ -70,11 +70,11 @@ public final class SkyLands {
             ContentSetup.registerFireBehavior();
             SkyWorldgenSetup.register();
         });
-        LOGGER.info("[Sky Lands] Unofficial Port v0.9.0 common setup complete: {} blocks, {} items. Overworld worldgen active; dimension port pending.",
+        LOGGER.info("[Sky Lands] Unofficial Port v0.9.1 common setup complete: {} blocks, {} items. Overworld worldgen active; dimension port pending.",
                 ModBlocks.BLOCKS.getEntries().size(), ModItems.ITEMS.getEntries().size());
     }
 
     private void serverStarted(ServerStartedEvent event) {
-        LOGGER.info("[Sky Lands] Unofficial Port v0.9.0 server started.");
+        LOGGER.info("[Sky Lands] Unofficial Port v0.9.1 server started.");
     }
 }

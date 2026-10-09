@@ -48,9 +48,13 @@ public final class CloudBarrier3Particle extends TextureSheetParticle {
         return ParticleRenderType.PARTICLE_SHEET_TRANSLUCENT;
     }
 
-    /** Full-bright lightmap prevents island ceilings from darkening cosmetic clouds. */
+    /**
+     * Treat clouds as exposed to the sky, regardless of island ceilings.
+     * FULL_SKY has zero block light: the normal lightmap still dims with the
+     * day/night cycle instead of keeping these cosmetic clouds emissive.
+     */
     @Override public int getLightColor(float partialTick) {
-        return net.minecraft.client.renderer.LightTexture.FULL_BRIGHT;
+        return net.minecraft.client.renderer.LightTexture.FULL_SKY;
     }
 
     @Override public void tick() {

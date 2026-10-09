@@ -130,6 +130,6 @@ public final class SkyLandsClient {
                 net.deepcanion.skylands.registry.ModItems.GLIDER.get(), SkyLands.id("glider_grounded"),
                 (net.minecraft.client.renderer.item.ItemPropertyFunction) (stack, level, entity, seed) ->
                         entity instanceof net.minecraft.world.entity.player.Player && entity.onGround() ? 1F : 0F));
-        SkyLands.LOGGER.info("[Sky Lands] Unofficial Port v0.9.0 client setup complete.");
+        SkyLands.LOGGER.info("[Sky Lands] Unofficial Port v0.9.1 client setup complete.");
     }
 }
