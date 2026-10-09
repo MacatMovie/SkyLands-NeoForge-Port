@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "flying_stuff:lavic_skyrock"
+  },
+  "result": {
+    "id": "flying_stuff:polished_lavic_skyrock",
+    "count": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:LavicSkyrockBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LavicSkyrockBricks"
+      },
+      {
+        "value": "CUSTOM:LavicSkyrockBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LavicSkyrockBricks"
+      },
+      {
+        "value": "CUSTOM:LavicSkyrockBricks"
+      },
+      {
+        "value": "CUSTOM:LavicSkyrockBricks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LavicSkyrockBricksStaircase"
+    },
+    "name": "metatilstairs",
+    "namespace": "mod"
+  }
+}

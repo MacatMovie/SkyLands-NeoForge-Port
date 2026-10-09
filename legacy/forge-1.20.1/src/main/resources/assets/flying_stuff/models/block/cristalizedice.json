@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/cristalized_ice",
+    "up": "flying_stuff:block/cristalized_ice",
+    "north": "flying_stuff:block/cristalized_ice",
+    "east": "flying_stuff:block/cristalized_ice",
+    "south": "flying_stuff:block/cristalized_ice",
+    "west": "flying_stuff:block/cristalized_ice",
+    "particle": "flying_stuff:block/cristalized_ice"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,28 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "CUSTOM:SwordOfTheSky"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:Celestium"
+    },
+    "smithingInputTemplateStack": {
+      "value": "CUSTOM:Celestium"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:VerdantSwordOfTheSky"
+    },
+    "name": "verdant_sots",
+    "namespace": "mod"
+  }
+}

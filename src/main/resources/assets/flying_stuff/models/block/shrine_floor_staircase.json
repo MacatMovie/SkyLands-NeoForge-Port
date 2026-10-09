@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "flying_stuff:block/shrine_floor",
+    "top": "flying_stuff:block/shrine_floor",
+    "side": "flying_stuff:block/shrine_floor"
+  },
+  "render_type": "solid"
+}

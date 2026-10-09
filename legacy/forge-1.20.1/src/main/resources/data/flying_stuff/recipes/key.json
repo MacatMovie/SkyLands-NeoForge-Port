@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cde",
+    "afa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "flying_stuff:celestium_core"
+    },
+    "c": {
+      "item": "flying_stuff:inky_celestium_core"
+    },
+    "d": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "e": {
+      "item": "flying_stuff:amber_celestium_core"
+    },
+    "f": {
+      "item": "flying_stuff:pale_celestium_core"
+    }
+  },
+  "result": {
+    "item": "flying_stuff:master_key",
+    "count": 1
+  }
+}

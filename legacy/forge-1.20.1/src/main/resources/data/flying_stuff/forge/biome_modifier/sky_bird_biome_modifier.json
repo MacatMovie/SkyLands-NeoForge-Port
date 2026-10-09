@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "flying_stuff:flying_islands",
+  "spawners": {
+    "type": "flying_stuff:sky_bird",
+    "weight": 32,
+    "minCount": 1,
+    "maxCount": 6
+  }
+}

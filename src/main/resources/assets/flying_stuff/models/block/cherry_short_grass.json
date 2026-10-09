@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "flying_stuff:block/cherryblossomshortgrass",
+    "particle": "flying_stuff:block/cherryblossomshortgrass"
+  },
+  "render_type": "cutout"
+}

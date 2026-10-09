@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "flying_stuff:block/tiled_skyrock",
+    "top": "flying_stuff:block/tiled_skyrock",
+    "side": "flying_stuff:block/tiled_skyrock"
+  },
+  "render_type": "solid"
+}

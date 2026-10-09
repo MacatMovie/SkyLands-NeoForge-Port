@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "jumper_01",
+        "missing": "jumper_01"
+      },
+      "name": "default"
+    }
+  }
+}

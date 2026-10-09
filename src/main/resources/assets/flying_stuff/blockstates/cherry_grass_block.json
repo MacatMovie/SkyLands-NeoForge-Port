@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "flying_stuff:block/cherry_grass_block" },
+      { "model": "flying_stuff:block/cherry_grass_block1" },
+      { "model": "flying_stuff:block/cherry_grass_block2" },
+      { "model": "flying_stuff:block/cherry_grass_block3" }
+    ]
+  }
+
+}

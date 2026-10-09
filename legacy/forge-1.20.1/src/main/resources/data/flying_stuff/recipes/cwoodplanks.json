@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "flying_stuff:celestial_log"
+    }
+  ],
+  "result": {
+    "item": "flying_stuff:celestial_planks",
+    "count": 4
+  }
+}

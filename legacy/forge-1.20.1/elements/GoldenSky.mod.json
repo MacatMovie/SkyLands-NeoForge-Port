@@ -1,0 +1,11 @@
+{
+  "_fv": 60,
+  "_type": "painting",
+  "definition": {
+    "texture": "painting0.png",
+    "width": 16,
+    "height": 32,
+    "title": "Golden Sky",
+    "author": "DeepCanionStudio"
+  }
+}

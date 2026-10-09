@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "a a",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "flying_stuff:f_iery_planks"
+    }
+  },
+  "result": {
+    "item": "flying_stuff:golden_leaves_boat",
+    "count": 1
+  }
+}

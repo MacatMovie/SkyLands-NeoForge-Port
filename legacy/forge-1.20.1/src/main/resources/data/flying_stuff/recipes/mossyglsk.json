@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "flying_stuff:glaciated_leaves"
+    },
+    {
+      "item": "flying_stuff:glaciated_skyrock"
+    }
+  ],
+  "result": {
+    "item": "flying_stuff:mossy_glaciated_skyrock",
+    "count": 1
+  }
+}

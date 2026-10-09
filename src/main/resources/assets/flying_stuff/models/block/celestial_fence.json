@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "flying_stuff:block/celestial_planks",
+    "particle": "flying_stuff:block/celestial_planks"
+  },
+  "render_type": "solid"
+}

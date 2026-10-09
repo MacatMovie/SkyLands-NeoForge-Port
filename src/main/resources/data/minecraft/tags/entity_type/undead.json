@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "flying_stuff:lavic_sky_automaton",
+    "flying_stuff:arid_sky_automaton",
+    "flying_stuff:sky_automaton",
+    "flying_stuff:glaciated_sky_automaton"
+  ]
+}

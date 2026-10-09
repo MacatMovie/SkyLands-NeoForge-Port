@@ -1,0 +1,7 @@
+{
+  "parent": "block/pressure_plate_up",
+  "textures": {
+    "texture": "flying_stuff:block/inky_wood"
+  },
+  "render_type": "solid"
+}

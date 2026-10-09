@@ -1,0 +1,12 @@
+{
+  "type": "flying_stuff:structure_feature",
+  "config": {
+    "structure": "flying_stuff:isle_medium_5",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": [
+      "minecraft:structure_block",
+      "minecraft:air"
+    ]
+  }
+}

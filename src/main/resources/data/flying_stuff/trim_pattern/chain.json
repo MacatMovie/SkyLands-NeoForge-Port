@@ -1,0 +1,8 @@
+{
+  "asset_id": "flying_stuff:chain",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.flying_stuff.chain"
+  },
+  "template_item": "flying_stuff:chain_armor_trim_smithing_template"
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "flying_stuff:abyssal_city",
+  "features": "flying_stuff:sulfur_sand_patch",
+  "step": "surface_structures"
+}

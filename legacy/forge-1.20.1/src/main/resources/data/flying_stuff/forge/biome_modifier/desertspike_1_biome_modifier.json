@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "flying_stuff:arid_floating_islands",
+  "features": "flying_stuff:desertspike_1",
+  "step": "surface_structures"
+}

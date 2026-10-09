@@ -1,0 +1,6 @@
+{
+  "parent": "flying_stuff:displaysettings/proto_chest",
+  "textures": {
+    "particle": "flying_stuff:block/protochest"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "flying_stuff:inky_celestium"
+  },
+  "base": {
+    "item": "flying_stuff:sword_of_the_sky"
+  },
+  "addition": {
+    "item": "flying_stuff:inky_celestium"
+  },
+  "result": {
+    "item": "flying_stuff:inky_sword_of_the_sky"
+  }
+}

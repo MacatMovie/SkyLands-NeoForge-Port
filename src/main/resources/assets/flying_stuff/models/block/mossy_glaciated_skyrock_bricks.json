@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/mossy_glaciated_skyrock_bricks",
+    "up": "flying_stuff:block/mossy_glaciated_skyrock_bricks",
+    "north": "flying_stuff:block/mossy_glaciated_skyrock_bricks",
+    "east": "flying_stuff:block/mossy_glaciated_skyrock_bricks",
+    "south": "flying_stuff:block/mossy_glaciated_skyrock_bricks",
+    "west": "flying_stuff:block/mossy_glaciated_skyrock_bricks",
+    "particle": "flying_stuff:block/mossy_glaciated_skyrock_bricks"
+  },
+  "render_type": "solid"
+}

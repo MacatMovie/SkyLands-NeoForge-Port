@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:InkyPlanks"
+      },
+      {
+        "value": "CUSTOM:InkyPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:InkyPlanks"
+      },
+      {
+        "value": "CUSTOM:InkyPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:InkyPlanks"
+      },
+      {
+        "value": "CUSTOM:InkyPlanks"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:InkyPlanksDoor"
+    },
+    "name": "awood_door",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:diamond",
+    "minecraft:golden_apple",
+    "minecraft:iron_ingot",
+    "minecraft:blaze_powder",
+    "minecraft:redstone",
+    "minecraft:coal_block",
+    "minecraft:nether_wart",
+    "minecraft:magma_cream",
+    "minecraft:emerald"
+  ]
+}

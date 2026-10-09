@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "flying_stuff:floating_swamp",
+  "spawners": {
+    "type": "flying_stuff:happy_slobert",
+    "weight": 100,
+    "minCount": 4,
+    "maxCount": 8
+  }
+}

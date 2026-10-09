@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "flying_stuff:fiery_leaves"
+    },
+    {
+      "item": "flying_stuff:tiled_skyrock"
+    }
+  ],
+  "result": {
+    "item": "flying_stuff:mossy_tiled_skyrock",
+    "count": 1
+  }
+}

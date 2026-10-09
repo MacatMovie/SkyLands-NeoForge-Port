@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "flying_stuff:the_underground",
+    "flying_stuff:abyssal_city"
+  ],
+  "spawners": {
+    "type": "flying_stuff:artificial_aracnid",
+    "weight": 1,
+    "minCount": 4,
+    "maxCount": 8
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "parent": "flying_stuff:custom/hangglider",
+  "textures": {
+    "4": "flying_stuff:block/glider_tex",
+    "particle": "flying_stuff:item/glider"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 1
+      },
+      "model": "flying_stuff:item/gliders/test"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 2
+      },
+      "model": "flying_stuff:item/gliders/smile"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 3
+      },
+      "model": "flying_stuff:item/gliders/corner"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 4
+      },
+      "model": "flying_stuff:item/gliders/nostalgic"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 5
+      },
+      "model": "flying_stuff:item/gliders/crafting"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 6
+      },
+      "model": "flying_stuff:item/gliders/creeper"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 7
+      },
+      "model": "flying_stuff:item/gliders/cloud"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 8
+      },
+      "model": "flying_stuff:item/gliders/cold"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 9
+      },
+      "model": "flying_stuff:item/gliders/glaciated"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 10
+      },
+      "model": "flying_stuff:item/gliders/mojang"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 11
+      },
+      "model": "flying_stuff:item/gliders/riptide"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 12
+      },
+      "model": "flying_stuff:item/gliders/fox"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 13
+      },
+      "model": "flying_stuff:item/gliders/rusted"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 14
+      },
+      "model": "flying_stuff:item/gliders/lavic"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 15
+      },
+      "model": "flying_stuff:item/gliders/lightly_weathered_cut_copper_stairs"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 16
+      },
+      "model": "flying_stuff:item/gliders/night"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 17
+      },
+      "model": "flying_stuff:item/gliders/day"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 18
+      },
+      "model": "flying_stuff:item/gliders/geometry"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 19
+      },
+      "model": "flying_stuff:item/gliders/mechanic"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 20
+      },
+      "model": "flying_stuff:item/gliders/eye"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 21
+      },
+      "model": "flying_stuff:item/gliders/rune"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 22
+      },
+      "model": "flying_stuff:item/gliders/islands"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 23
+      },
+      "model": "flying_stuff:item/gliders/furnace"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 24
+      },
+      "model": "flying_stuff:item/gliders/arid"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 25
+      },
+      "model": "flying_stuff:item/gliders/pyramid"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 26
+      },
+      "model": "flying_stuff:item/gliders/naissancee"
+    },
+    {
+      "predicate": {
+        "flying_stuff:glider_canvas": 27
+      },
+      "model": "flying_stuff:item/gliders/copper"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "flying_stuff:lavic_skyrock"
+    }
+  },
+  "result": {
+    "count": 6,
+    "id": "flying_stuff:lavic_skyrock_walls"
+  }
+}

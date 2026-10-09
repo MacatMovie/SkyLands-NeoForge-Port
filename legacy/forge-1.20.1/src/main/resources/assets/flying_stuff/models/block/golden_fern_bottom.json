@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "flying_stuff:block/golden_fern",
+    "particle": "flying_stuff:block/golden_fern"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,27 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "builtin/entity",
+  "texture_size": [
+    256,
+    256
+  ],
+  "display": {
+    "firstperson_righthand": {
+      "scale": [
+        0.08,
+        0.1,
+        0.12
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.19,
+        0.2,
+        0.19
+      ]
+    }
+  },
+  "textures": {
+    "particle": "flying_stuff:item/abyssal_door"
+  }
+}

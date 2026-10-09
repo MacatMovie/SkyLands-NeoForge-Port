@@ -1,0 +1,40 @@
+{
+  "name":"flying_stuff:lava_spike",
+  "fallback": "minecraft:empty",
+  "elements": [
+	{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:lava/lava_spike_huge0",
+        "processors": "minecraft:empty"
+   		}
+   },{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:lava/lava_spike_huge1",
+        "processors": "minecraft:empty"
+   		}
+   },{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:lava/lava_spike_huge2",
+        "processors": "minecraft:empty"
+   		}},
+   	{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:lava/lava_spike_huge3",
+        "processors": "minecraft:empty"
+   		}
+   }
+   ]
+   
+}

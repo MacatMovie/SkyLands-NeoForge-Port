@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aca"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "flying_stuff:dragon_armor_trim_smithing_template"
+    },
+    "c": {
+      "item": "flying_stuff:cobbled_glaciated_skyrock"
+    }
+  },
+  "result": {
+    "item": "flying_stuff:dragon_armor_trim_smithing_template",
+    "count": 2
+  }
+}

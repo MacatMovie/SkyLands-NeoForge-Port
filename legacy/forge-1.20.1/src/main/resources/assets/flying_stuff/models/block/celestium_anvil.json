@@ -1,0 +1,9 @@
+{
+  "parent": "flying_stuff:custom/celestiumanvil",
+  "textures": {
+    "all": "flying_stuff:block/celestium_anvil",
+    "particle": "flying_stuff:block/celestium_anvil",
+    "0": "flying_stuff:block/celestium_anvil"
+  },
+  "render_type": "solid"
+}

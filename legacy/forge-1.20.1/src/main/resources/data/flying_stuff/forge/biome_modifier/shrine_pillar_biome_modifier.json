@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "the_void",
+  "features": "flying_stuff:shrine_pillar",
+  "step": "surface_structures"
+}

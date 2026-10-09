@@ -1,0 +1,8 @@
+{
+  "asset_id":"flying_stuff:dragon",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.flying_stuff.dragon"
+  },
+  "template_item": "flying_stuff:dragon_armor_trim_smithing_template"
+}

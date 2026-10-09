@@ -1,0 +1,17 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"freefalltransition": {
+			"animation_length": 0.08333,
+			"blend_weight": "1",
+			"bones": {
+				"left_leg": {
+					"rotation": {
+						"vector": [0, -5, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

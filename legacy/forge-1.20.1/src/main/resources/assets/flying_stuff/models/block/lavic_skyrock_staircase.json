@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "flying_stuff:block/skymetal",
+    "top": "flying_stuff:block/skymetal",
+    "side": "flying_stuff:block/skymetal"
+  },
+  "render_type": "solid"
+}

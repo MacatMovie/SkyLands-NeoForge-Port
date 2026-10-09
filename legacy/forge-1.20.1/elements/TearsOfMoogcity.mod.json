@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "rarity": "EPIC",
+    "texture": "tears_of_moog_city_disk",
+    "description": "DeepCanionStudio - Tears Of Moog City",
+    "creativeTab": {
+      "value": "CUSTOM:SkyLandsItems"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:tears_of_moog_city"
+    },
+    "lengthInTicks": 3340,
+    "analogOutput": 15
+  }
+}

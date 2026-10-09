@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "flying_stuff:golden_archipelago",
+      "weight": 3
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1261199249,
+    "spacing": 19,
+    "separation": 14
+  }
+}

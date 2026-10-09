@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "flying_stuff:inky_planks"
+    }
+  },
+  "result": {
+    "item": "flying_stuff:inky_planks_trapdoor",
+    "count": 2
+  }
+}

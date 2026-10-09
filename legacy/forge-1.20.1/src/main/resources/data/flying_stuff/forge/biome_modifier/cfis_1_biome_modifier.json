@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "flying_stuff:floating_cherry_grove",
+  "features": "flying_stuff:cfis_1",
+  "step": "raw_generation"
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "flying_stuff:fiery_leaves",
+    "flying_stuff:glaciated_leaves",
+    "flying_stuff:lavic_fungus_block",
+    "flying_stuff:celestial_tree_leaves"
+  ]
+}

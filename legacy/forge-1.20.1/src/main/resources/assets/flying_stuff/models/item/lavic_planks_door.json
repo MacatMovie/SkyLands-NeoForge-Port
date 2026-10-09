@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "flying_stuff:item/lavic_door"
+  },
+  "render_type": "translucent"
+}

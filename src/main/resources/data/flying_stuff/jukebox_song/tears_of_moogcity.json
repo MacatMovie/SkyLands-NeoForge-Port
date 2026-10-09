@@ -1,0 +1,8 @@
+{
+  "sound_event": "flying_stuff:tears_of_moog_city",
+  "description": {
+    "translate": "item.flying_stuff.tears_of_moogcity.desc"
+  },
+  "length_in_seconds": 167.0,
+  "comparator_output": 15
+}

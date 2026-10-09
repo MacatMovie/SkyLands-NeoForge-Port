@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "flying_stuff:flying_islands",
+  "features": [
+    "flying_stuff:fim_0_feature",
+    "flying_stuff:fim_1_feature",
+    "flying_stuff:fim_3",
+    "flying_stuff:fimsnow_0_feature",
+    "flying_stuff:fis_2_feature",
+    "flying_stuff:fis_3_feature"
+  ],
+  "step": "raw_generation"
+}

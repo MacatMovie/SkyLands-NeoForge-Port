@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "flying_stuff:cobbled_glaciated_skyrock"
+  },
+  "result": {
+    "id": "flying_stuff:polished_glacitated_skyrock",
+    "count": 1
+  }
+}

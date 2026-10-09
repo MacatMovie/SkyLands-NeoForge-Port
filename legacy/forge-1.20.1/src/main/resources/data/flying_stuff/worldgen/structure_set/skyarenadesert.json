@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "flying_stuff:skyarenadesert",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 16,
+    "separation": 9,
+    "salt": 493344522
+  }
+}

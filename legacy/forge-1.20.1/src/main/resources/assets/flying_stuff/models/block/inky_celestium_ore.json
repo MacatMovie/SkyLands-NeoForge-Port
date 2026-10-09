@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/inky_celestium_ore",
+    "up": "flying_stuff:block/inky_celestium_ore",
+    "north": "flying_stuff:block/inky_celestium_ore",
+    "east": "flying_stuff:block/inky_celestium_ore",
+    "south": "flying_stuff:block/inky_celestium_ore",
+    "west": "flying_stuff:block/inky_celestium_ore",
+    "particle": "flying_stuff:block/inky_celestium_ore"
+  },
+  "render_type": "solid"
+}

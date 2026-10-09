@@ -1,0 +1,10 @@
+{
+  "parent": "flying_stuff:custom/mechanical_geyser",
+  "textures": {
+    "all": "flying_stuff:block/mechanical_geyser",
+    "particle": "flying_stuff:block/mechanical_geyser",
+    "1": "flying_stuff:block/mechanical_geyser",
+    "missing": "flying_stuff:block/mechanical_geyser"
+  },
+  "render_type": "solid"
+}

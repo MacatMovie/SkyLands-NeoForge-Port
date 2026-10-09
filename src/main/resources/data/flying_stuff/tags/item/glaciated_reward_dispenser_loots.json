@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:diamond",
+    "minecraft:golden_apple",
+    "minecraft:iron_ingot",
+    "minecraft:amethyst_shard",
+    "minecraft:emerald",
+    "flying_stuff:cristalizedice",
+    "minecraft:prismarine_crystals",
+    "minecraft:nautilus_shell"
+  ]
+}

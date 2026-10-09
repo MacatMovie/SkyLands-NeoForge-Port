@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/skyrock",
+    "up": "flying_stuff:block/cherryblossomgrassblocktop1",
+    "north": "flying_stuff:block/cherryblossomgrassblock",
+    "east": "flying_stuff:block/cherryblossomgrassblock",
+    "south": "flying_stuff:block/cherryblossomgrassblock",
+    "west": "flying_stuff:block/cherryblossomgrassblock",
+    "particle": "flying_stuff:block/skyrock"
+  },
+  "render_type": "solid"
+}

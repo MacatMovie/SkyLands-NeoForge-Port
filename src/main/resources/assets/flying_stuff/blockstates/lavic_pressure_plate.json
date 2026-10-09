@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "flying_stuff:block/lavic_pressure_plate"
+    },
+    "powered=true": {
+      "model": "flying_stuff:block/lavic_pressure_plate_down"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "flying_stuff:celestium"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "flying_stuff:celestium"
+    },
+    {
+      "item": "flying_stuff:celestium"
+    },
+    {
+      "item": "flying_stuff:brocken_sky_automaton_sword"
+    }
+  ],
+  "result": {
+    "item": "flying_stuff:automaton_sword",
+    "count": 1
+  }
+}

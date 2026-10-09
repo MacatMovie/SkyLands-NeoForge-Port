@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:FIeryPlanks"
+      },
+      {
+        "value": "CUSTOM:FIeryPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:FIeryPlanks"
+      },
+      {
+        "value": "CUSTOM:FIeryPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:FIeryPlanks"
+      },
+      {
+        "value": "CUSTOM:FIeryPlanks"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FieryPlanksDoor"
+    },
+    "name": "fwood_door",
+    "namespace": "mod"
+  }
+}

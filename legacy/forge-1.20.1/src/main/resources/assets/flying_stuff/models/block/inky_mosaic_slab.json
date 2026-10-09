@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "flying_stuff:block/inky_mosaic",
+    "top": "flying_stuff:block/inky_mosaic",
+    "side": "flying_stuff:block/inky_mosaic"
+  },
+  "render_type": "solid"
+}

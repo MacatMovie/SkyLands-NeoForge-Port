@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 60,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smokingInputStack": {
+      "value": "CUSTOM:RawTucTucWing"
+    },
+    "smokingReturnStack": {
+      "value": "CUSTOM:CookedTucTucWing"
+    },
+    "name": "cttm",
+    "namespace": "mod"
+  }
+}

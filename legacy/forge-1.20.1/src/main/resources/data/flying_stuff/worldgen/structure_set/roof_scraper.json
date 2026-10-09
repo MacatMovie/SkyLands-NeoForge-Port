@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "flying_stuff:roof_scraper",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 2,
+    "separation": 1,
+    "salt": 68107622
+  }
+}

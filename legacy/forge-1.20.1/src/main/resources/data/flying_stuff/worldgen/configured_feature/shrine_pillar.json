@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:simple_random_selector",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "flying_stuff:structure_feature",
+          "config": {
+            "structure": "flying_stuff:coloumn",
+            "random_rotation": true,
+            "ignored_blocks": "minecraft:air"
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "flying_stuff:structure_feature",
+          "config": {
+            "structure": "flying_stuff:coloumn1",
+            "random_rotation": true,
+            "ignored_blocks": "minecraft:air",
+            "offset": [
+              0,
+              -20,
+              0
+            ]
+          }
+        },
+        "placement": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "flying_stuff:glaciated_planks"
+    }
+  },
+  "result": {
+    "item": "flying_stuff:glaciated_wood_pressure_plate",
+    "count": 2
+  }
+}

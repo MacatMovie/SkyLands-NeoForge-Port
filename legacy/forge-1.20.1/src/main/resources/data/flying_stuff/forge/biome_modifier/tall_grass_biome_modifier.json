@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "flying_stuff:flying_islands",
+    "flying_stuff:glaciated_floating_islands",
+    "flying_stuff:lavic_floating_islands"
+  ],
+  "features": "flying_stuff:tall_grass",
+  "step": "surface_structures"
+}

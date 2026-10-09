@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "b b",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "flying_stuff:lavic_planks"
+    },
+    "b": {
+      "item": "minecraft:chain"
+    }
+  },
+  "result": {
+    "item": "flying_stuff:lavic_hanging_sign",
+    "count": 3
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "flying_stuff:floating_dungeons_cherry_start",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:cherry_floating_dungeon/isle_floating_dungeon_cherry_center_big",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+
+}

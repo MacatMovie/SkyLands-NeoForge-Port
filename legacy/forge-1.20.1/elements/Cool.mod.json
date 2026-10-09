@@ -1,0 +1,16 @@
+{
+  "_fv": 60,
+  "_type": "villagerprofession",
+  "definition": {
+    "displayName": "Cool Villager",
+    "pointOfInterest": {
+      "value": "CUSTOM:CelestiumAnvil"
+    },
+    "actionSound": {
+      "value": "entity.villager.trading"
+    },
+    "hat": "Full",
+    "professionTextureFile": "cool_villager.png",
+    "zombifiedProfessionTextureFile": "cool_villager.png"
+  }
+}

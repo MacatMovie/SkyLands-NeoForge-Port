@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/polished_grimstone",
+    "up": "flying_stuff:block/polished_grimstone",
+    "north": "flying_stuff:block/chiseled_grimstone",
+    "east": "flying_stuff:block/chiseled_grimstone",
+    "south": "flying_stuff:block/chiseled_grimstone",
+    "west": "flying_stuff:block/chiseled_grimstone",
+    "particle": "flying_stuff:block/polished_grimstone"
+  },
+  "render_type": "solid"
+}

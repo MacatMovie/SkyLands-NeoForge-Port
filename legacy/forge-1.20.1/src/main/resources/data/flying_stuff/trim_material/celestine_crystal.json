@@ -1,0 +1,9 @@
+{
+  "asset_name": "celestine_crystal",
+  "description": {
+    "color": "#9edaf4",
+    "text": "celestine"
+  },
+  "ingredient": "flying_stuff:celestine_crystal",
+  "item_model_index": 1.5
+}

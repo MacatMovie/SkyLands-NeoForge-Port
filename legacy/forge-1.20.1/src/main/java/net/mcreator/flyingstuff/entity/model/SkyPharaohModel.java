@@ -1,0 +1,40 @@
+package net.mcreator.flyingstuff.entity.model;
+
+import software.bernie.geckolib.model.data.EntityModelData;
+import software.bernie.geckolib.model.GeoModel;
+import software.bernie.geckolib.core.animation.AnimationState;
+import software.bernie.geckolib.core.animatable.model.CoreGeoBone;
+import software.bernie.geckolib.constant.DataTickets;
+
+import net.minecraft.util.Mth;
+import net.minecraft.resources.ResourceLocation;
+
+import net.mcreator.flyingstuff.entity.SkyPharaohEntity;
+
+public class SkyPharaohModel extends GeoModel<SkyPharaohEntity> {
+	@Override
+	public ResourceLocation getAnimationResource(SkyPharaohEntity entity) {
+		return new ResourceLocation("flying_stuff", "animations/sky_pharaoh.animation.json");
+	}
+
+	@Override
+	public ResourceLocation getModelResource(SkyPharaohEntity entity) {
+		return new ResourceLocation("flying_stuff", "geo/sky_pharaoh.geo.json");
+	}
+
+	@Override
+	public ResourceLocation getTextureResource(SkyPharaohEntity entity) {
+		return new ResourceLocation("flying_stuff", "textures/entities/" + entity.getTexture() + ".png");
+	}
+
+	@Override
+	public void setCustomAnimations(SkyPharaohEntity animatable, long instanceId, AnimationState animationState) {
+		CoreGeoBone head = getAnimationProcessor().getBone("head");
+		if (head != null) {
+			EntityModelData entityData = (EntityModelData) animationState.getData(DataTickets.ENTITY_MODEL_DATA);
+			head.setRotX(entityData.headPitch() * Mth.DEG_TO_RAD);
+			head.setRotY(entityData.netHeadYaw() * Mth.DEG_TO_RAD);
+		}
+
+	}
+}

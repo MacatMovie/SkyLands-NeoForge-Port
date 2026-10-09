@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/cherry_mossy_skyrock",
+    "up": "flying_stuff:block/cherry_mossy_skyrock",
+    "north": "flying_stuff:block/cherry_mossy_skyrock",
+    "east": "flying_stuff:block/cherry_mossy_skyrock",
+    "south": "flying_stuff:block/cherry_mossy_skyrock",
+    "west": "flying_stuff:block/cherry_mossy_skyrock",
+    "particle": "flying_stuff:block/cherry_mossy_skyrock"
+  },
+  "render_type": "solid"
+}

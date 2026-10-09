@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "flying_stuff:custom/open_golden_sky_level_2_chest_particle"
+    },
+    "facing=east": {
+      "model": "flying_stuff:custom/open_golden_sky_level_2_chest_particle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "flying_stuff:custom/open_golden_sky_level_2_chest_particle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "flying_stuff:custom/open_golden_sky_level_2_chest_particle",
+      "y": 270
+    }
+  }
+}

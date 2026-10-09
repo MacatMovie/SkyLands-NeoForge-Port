@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "flying_stuff:block/glaciated_skyrock_bricks_slab"
+    },
+    "type=top": {
+      "model": "flying_stuff:block/glaciated_skyrock_bricks_slab_top"
+    },
+    "type=double": {
+      "model": "flying_stuff:block/glaciated_skyrock_bricks_slab_full"
+    }
+  }
+}

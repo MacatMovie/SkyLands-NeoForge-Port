@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "flying_stuff:smithing_template_upgrade_of_the_sky"
+  },
+  "base": {
+    "item": "minecraft:netherite_sword"
+  },
+  "addition": {
+    "item": "flying_stuff:ingot_of_the_sky"
+  },
+  "result": {
+    "item": "flying_stuff:sword_of_the_sky"
+  }
+}

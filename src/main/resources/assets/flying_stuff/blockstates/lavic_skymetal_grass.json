@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "flying_stuff:block/lavic_skymetal_grass"
+      },
+      {
+        "model": "flying_stuff:block/lavic_skymetal_grass1"
+      },
+      {
+        "model": "flying_stuff:block/lavic_skymetal_grass2"
+      },
+      {
+        "model": "flying_stuff:block/lavic_skymetal_grass3"
+      }
+    ]
+  }
+}

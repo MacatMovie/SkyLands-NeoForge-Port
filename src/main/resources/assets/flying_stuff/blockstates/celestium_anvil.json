@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "flying_stuff:block/celestium_anvil"
+    },
+    "facing=east": {
+      "model": "flying_stuff:block/celestium_anvil",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "flying_stuff:block/celestium_anvil",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "flying_stuff:block/celestium_anvil",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "parent": "flying_stuff:custom/cumulunimbus_cloud",
+  "textures": {
+    "all": "flying_stuff:block/cloud_big1",
+    "particle": "flying_stuff:block/cloud_big1",
+    "1": "flying_stuff:block/cloud_base",
+    "2": "flying_stuff:block/cloud_realbig",
+    "3": "flying_stuff:block/cloud_big1",
+    "4": "flying_stuff:block/cloud_big0",
+    "5": "flying_stuff:block/base_big",
+    "missing": "flying_stuff:block/"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,244 @@
+{
+  "sky_wind": {
+    "subtitle": "subtitles.sky_wind",
+    "sounds": [
+      {
+        "name": "flying_stuff:wind",
+        "stream": false
+      }
+    ]
+  },
+  "freefall": {
+    "sounds": [
+      {
+        "name": "flying_stuff:freefall_audio",
+        "stream": false
+      }
+    ]
+  },
+  "freefall_fast": {
+    "sounds": [
+      {
+        "name": "flying_stuff:freefall_fast_audio",
+        "stream": false
+      }
+    ]
+  },
+  "sky_river_disk": {
+    "subtitle": "subtitles.sky_river_disk",
+    "sounds": [
+      {
+        "name": "flying_stuff:pygone-02",
+        "stream": true
+      }
+    ]
+  },
+  "golden_sky_music": {
+    "sounds": [
+      {
+        "name": "flying_stuff:skylands0",
+        "stream": true
+      }
+    ]
+  },
+  "sky_chest_open": {
+    "sounds": [
+      {
+        "name": "flying_stuff:chest_open",
+        "stream": false
+      }
+    ]
+  },
+  "sky_chest_close": {
+    "sounds": [
+      {
+        "name": "flying_stuff:chest_close",
+        "stream": false
+      }
+    ]
+  },
+  "dragon_final_kill": {
+    "subtitle": "subtitles.dragon_final_kill",
+    "sounds": [
+      {
+        "name": "flying_stuff:dragon_final_kill",
+        "stream": false
+      }
+    ]
+  },
+  "ice_dragon_flap": {
+    "sounds": [
+      {
+        "name": "flying_stuff:wing_flap_2",
+        "stream": false
+      }
+    ]
+  },
+  "dragon_attack": {
+    "sounds": [
+      {
+        "name": "flying_stuff:dragon_breath_1",
+        "stream": false
+      }
+    ]
+  },
+  "ice_bomb_hits": {
+    "subtitle": "subtitles.ice_bomb_hits",
+    "sounds": [
+      {
+        "name": "flying_stuff:ice_ball_hit",
+        "stream": false
+      }
+    ]
+  },
+  "ice_dragon_roar": {
+    "sounds": [
+      {
+        "name": "flying_stuff:dragon_roar_1",
+        "stream": false
+      }
+    ]
+  },
+  "ice_bomb_trown": {
+    "sounds": [
+      {
+        "name": "flying_stuff:ice_ball_launch_1",
+        "stream": false
+      }
+    ]
+  },
+  "sky_automaton_boss_final_kill": {
+    "sounds": [
+      {
+        "name": "flying_stuff:sky_automaton_final_kill",
+        "stream": false
+      }
+    ]
+  },
+  "chest_unlock": {
+    "sounds": [
+      {
+        "name": "flying_stuff:chest_open_key",
+        "stream": false
+      }
+    ]
+  },
+  "diskice": {
+    "sounds": [
+      {
+        "name": "flying_stuff:sollo5_breakcore",
+        "stream": true
+      }
+    ]
+  },
+  "underground_sound": {
+    "sounds": [
+      {
+        "name": "flying_stuff:the_underground",
+        "stream": true
+      }
+    ]
+  },
+  "underground_music_disk": {
+    "sounds": [
+      {
+        "name": "flying_stuff:the_underground-01",
+        "stream": true
+      }
+    ]
+  },
+  "lava_disk": {
+    "subtitle": "subtitles.lava_disk",
+    "sounds": [
+      {
+        "name": "flying_stuff:lava_disk",
+        "stream": true
+      }
+    ]
+  },
+  "igneus_sky": {
+    "sounds": [
+      {
+        "name": "flying_stuff:lavasky",
+        "stream": true
+      }
+    ]
+  },
+  "glaciated_sky": {
+    "sounds": [
+      {
+        "name": "flying_stuff:icebiomeost",
+        "stream": true
+      }
+    ]
+  },
+  "mechanism_static": {
+    "subtitle": "subtitles.mechanism_static",
+    "sounds": [
+      {
+        "name": "flying_stuff:storm_block_static_1",
+        "stream": false
+      }
+    ]
+  },
+  "mechanism_activated": {
+    "subtitle": "subtitles.mechanism_activated",
+    "sounds": [
+      {
+        "name": "flying_stuff:storm_block_activation_1",
+        "stream": false
+      }
+    ]
+  },
+  "fireblade_sound": {
+    "subtitle": "subtitles.fireblade_sound",
+    "sounds": [
+      {
+        "name": "flying_stuff:fire_weapon",
+        "stream": false
+      }
+    ]
+  },
+  "mechanism_deactivation": {
+    "subtitle": "subtitles.mechanism_deactivation",
+    "sounds": [
+      {
+        "name": "flying_stuff:storm_block_activation_2",
+        "stream": false
+      }
+    ]
+  },
+  "powerful_wind": {
+    "subtitle": "subtitles.powerful_wind",
+    "sounds": [
+      {
+        "name": "flying_stuff:storm_block_static_2",
+        "stream": false
+      }
+    ]
+  },
+  "desert_disc": {
+    "sounds": [
+      {
+        "name": "flying_stuff:dsikderset",
+        "stream": true
+      }
+    ]
+  },
+  "sky_waterfall": {
+    "sounds": [
+      {
+        "name": "flying_stuff:trailer0.5",
+        "stream": true
+      }
+    ]
+  },
+  "tears_of_moog_city": {
+    "sounds": [
+      {
+        "name": "flying_stuff:tears_of_moogcity",
+        "stream": true
+      }
+    ]
+  }
+}

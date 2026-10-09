@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "flying_stuff:glider"
+    },
+    {
+      "item": "flying_stuff:lightly_weathered_cut_copper_stairs_glider_design"
+    }
+  ],
+  "result": {
+    "item": "flying_stuff:glider",
+    "count": 1,
+    "nbt":"{canvas:15}"
+  }
+}

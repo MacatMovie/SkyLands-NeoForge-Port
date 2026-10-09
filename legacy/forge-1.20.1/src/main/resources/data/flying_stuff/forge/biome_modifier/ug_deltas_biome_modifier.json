@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "flying_stuff:the_underground",
+    "flying_stuff:abyssal_city",
+    "flying_stuff:abyssal_forest"
+  ],
+  "features": "flying_stuff:ug_deltas",
+  "step": "underground_structures"
+}

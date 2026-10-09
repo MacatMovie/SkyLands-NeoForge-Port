@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "flying_stuff:glaciated_sky_dungeon",
+      "weight": 3
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1361928249,
+    "spacing": 12,
+    "separation": 8
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "rarity": "UNCOMMON",
+    "texture": "sky_river_disk",
+    "description": "DeepCanionStudio - Sky River",
+    "creativeTab": {
+      "value": "CUSTOM:SkyLandsItems"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:sky_river_disk"
+    },
+    "lengthInTicks": 2550,
+    "analogOutput": 0
+  }
+}

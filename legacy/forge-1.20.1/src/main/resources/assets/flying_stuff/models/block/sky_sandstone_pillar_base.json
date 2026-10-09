@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/polished_sky_sandstone",
+    "up": "flying_stuff:block/polished_sky_sandstone",
+    "north": "flying_stuff:block/sky_sandstone_pillar_base",
+    "east": "flying_stuff:block/sky_sandstone_pillar_base",
+    "south": "flying_stuff:block/sky_sandstone_pillar_base",
+    "west": "flying_stuff:block/sky_sandstone_pillar_base",
+    "particle": "flying_stuff:block/polished_sky_sandstone"
+  },
+  "render_type": "solid"
+}

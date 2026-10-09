@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/inky_mosaic",
+    "up": "flying_stuff:block/inky_mosaic",
+    "north": "flying_stuff:block/inky_mosaic",
+    "east": "flying_stuff:block/inky_mosaic",
+    "south": "flying_stuff:block/inky_mosaic",
+    "west": "flying_stuff:block/inky_mosaic",
+    "particle": "flying_stuff:block/inky_mosaic"
+  },
+  "render_type": "solid"
+}

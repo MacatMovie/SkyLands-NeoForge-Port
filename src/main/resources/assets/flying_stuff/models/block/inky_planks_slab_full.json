@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "flying_stuff:block/inky_wood",
+    "top": "flying_stuff:block/inky_wood",
+    "side": "flying_stuff:block/inky_wood"
+  },
+  "render_type": "solid"
+}

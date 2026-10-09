@@ -1,0 +1,16 @@
+{
+  "name": "flying_stuff:golden_arcipelago_start",
+  "fallback": "minecraft:empty",
+  "elements": [
+	{
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:golden_archipelago/ga1",
+        "processors": "minecraft:empty"
+   	}
+   }
+   ]
+   
+}

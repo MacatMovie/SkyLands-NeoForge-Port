@@ -1,0 +1,116 @@
+{
+  "display": {
+    "icon": {
+      "item": "flying_stuff:cloud_block"
+    },
+    "title": {
+      "translate": "advancements.into_the_sky.title"
+    },
+    "description": {
+      "translate": "advancements.into_the_sky.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "into_the_sky_0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "flying_stuff:flying_islands"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "into_the_sky_1": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "flying_stuff:glaciated_floating_islands"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "into_the_sky_2": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "flying_stuff:lavic_floating_islands"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "into_the_sky_3": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "flying_stuff:arid_floating_islands"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "into_the_sky_4": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "flying_stuff:floating_cherry_grove"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "into_the_sky_5": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "flying_stuff:floating_swamp"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "flying_stuff:sky_lands"
+}

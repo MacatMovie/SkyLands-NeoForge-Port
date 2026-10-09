@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "flying_stuff:cobbled_glaciated_skyrock"
+    }
+  },
+  "result": {
+    "item": "flying_stuff:polished_glacitated_skyrock",
+    "count": 4
+  }
+}

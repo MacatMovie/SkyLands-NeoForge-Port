@@ -1,0 +1,59 @@
+{
+  "_fv": 60,
+  "_type": "structure",
+  "definition": {
+    "structure": "abyssal_portal_entrance",
+    "projection": "rigid",
+    "ignoredBlocks": [
+      {
+        "value": "Blocks.STRUCTURE_BLOCK"
+      }
+    ],
+    "spacing": 70,
+    "separation": 25,
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:AridFloatingIslands"
+      },
+      {
+        "value": "CUSTOM:FloatingCherryBlossom"
+      },
+      {
+        "value": "CUSTOM:FloatingSwamp"
+      },
+      {
+        "value": "CUSTOM:FlyingIslands"
+      },
+      {
+        "value": "CUSTOM:GlaciatedFliningIslands"
+      },
+      {
+        "value": "CUSTOM:LavicFloatingIslands"
+      },
+      {
+        "value": "taiga"
+      },
+      {
+        "value": "savanna"
+      },
+      {
+        "value": "cherry_grove"
+      },
+      {
+        "value": "desert"
+      },
+      {
+        "value": "plains"
+      },
+      {
+        "value": "snowy_tundra"
+      }
+    ],
+    "surfaceDetectionType": "WORLD_SURFACE_WG",
+    "terrainAdaptation": "none",
+    "generationStep": "UNDERGROUND_STRUCTURES",
+    "size": 1,
+    "maxDistanceFromCenter": 64,
+    "jigsawPools": []
+  }
+}

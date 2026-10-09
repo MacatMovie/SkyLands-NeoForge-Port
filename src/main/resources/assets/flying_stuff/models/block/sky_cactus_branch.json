@@ -1,0 +1,13 @@
+{
+  "parent": "flying_stuff:custom/cactus_1branch",
+  "textures": {
+    "all": "flying_stuff:block/sky_cactus",
+    "particle": "flying_stuff:block/sky_cactus",
+    "0": "flying_stuff:block/sky_cactus",
+    "1": "flying_stuff:block/sky_cactus_top",
+    "2": "flying_stuff:block/cactus_extern",
+    "3": "flying_stuff:block/leaves",
+    "missing": "flying_stuff:block/leaves"
+  },
+  "render_type": "cutout"
+}

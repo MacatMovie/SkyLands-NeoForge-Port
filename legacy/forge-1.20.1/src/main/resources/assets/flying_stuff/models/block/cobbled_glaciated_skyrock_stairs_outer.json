@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "flying_stuff:block/cobbled_glaciated_skyrock",
+    "top": "flying_stuff:block/cobbled_glaciated_skyrock",
+    "side": "flying_stuff:block/cobbled_glaciated_skyrock"
+  },
+  "render_type": "solid"
+}

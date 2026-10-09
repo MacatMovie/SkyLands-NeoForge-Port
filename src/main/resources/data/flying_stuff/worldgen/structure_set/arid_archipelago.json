@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "flying_stuff:arid_archipelago",
+      "weight": 3
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1252199249,
+    "spacing": 20,
+    "separation": 14
+  }
+}

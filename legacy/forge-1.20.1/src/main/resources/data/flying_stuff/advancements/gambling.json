@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "flying_stuff:celestium"
+    },
+    "title": {
+      "translate": "advancements.gambling.title"
+    },
+    "description": {
+      "translate": "advancements.gambling.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "gambling_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "flying_stuff:into_the_sky"
+}

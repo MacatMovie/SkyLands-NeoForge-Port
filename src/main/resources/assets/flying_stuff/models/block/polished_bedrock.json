@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/polished_bedrock",
+    "up": "flying_stuff:block/polished_bedrock",
+    "north": "flying_stuff:block/polished_bedrock",
+    "east": "flying_stuff:block/polished_bedrock",
+    "south": "flying_stuff:block/polished_bedrock",
+    "west": "flying_stuff:block/polished_bedrock",
+    "particle": "flying_stuff:block/polished_bedrock"
+  },
+  "render_type": "solid"
+}

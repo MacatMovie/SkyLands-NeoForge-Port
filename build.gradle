@@ -1,0 +1,88 @@
+plugins {
+    id 'java-library'
+    id 'net.neoforged.gradle.userdev' version '7.0.192'
+}
+
+version = mod_version
+group = mod_group_id
+base { archivesName = "SkyLands-UnofficialPort-NeoForge-${minecraft_version}" }
+// The requested release filename is used by both build/libs and dist.
+tasks.named('jar', Jar).configure {
+    archiveFileName = "SkyLands-UnofficialPort-NeoForge-${minecraft_version}-v${mod_version}.jar"
+}
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+
+repositories {
+    mavenCentral()
+    maven {
+        name = 'Glitchfiend'
+        url = 'https://maven.minecraftforge.net/'
+        content { includeGroup 'com.github.glitchfiend' }
+    }
+    maven {
+        name = 'GeckoLib'
+        url = 'https://dl.cloudsmith.io/public/geckolib3/geckolib/maven/'
+        content { includeGroup 'software.bernie.geckolib' }
+    }
+    maven {
+        name = 'Shedaniel'
+        url = 'https://maven.shedaniel.me/'
+        content { includeGroup 'me.shedaniel.cloth' }
+    }
+    maven {
+        name = 'KosmX'
+        url = 'https://maven.kosmx.dev/'
+        content { includeGroup 'dev.kosmx.player-anim' }
+    }
+}
+
+dependencies {
+    implementation "net.neoforged:neoforge:${neo_version}"
+
+    // TerraBlender is active and required by the Overworld biome integration.
+    implementation "com.github.glitchfiend:TerraBlender-neoforge:${minecraft_version}-${terrablender_version}"
+
+    implementation "software.bernie.geckolib:geckolib-neoforge-${minecraft_version}:${geckolib_version}"
+
+    // Player Animator is active for client flight poses; install its matching runtime JAR.
+    implementation "dev.kosmx.player-anim:player-animation-lib-forge:${playeranimator_version}"
+
+    // Cloth Config remains an optional development dependency.
+    if (providers.gradleProperty('portLibraries').getOrElse('false').toBoolean()) {
+        implementation "me.shedaniel.cloth:cloth-config-neoforge:${cloth_config_version}"
+    }
+}
+
+runs {
+    configureEach {
+        workingDirectory project.layout.projectDirectory.dir('run').dir(name)
+        systemProperty 'forge.logging.console.level', 'info'
+        modSource project.sourceSets.main
+    }
+    client { }
+    server { argument '--nogui' }
+}
+
+// Only src/main is compiled/packaged. The entire original workspace is retained
+// under legacy/ as migration reference, never as an active resource/source set.
+tasks.named('processResources', ProcessResources).configure {
+    def metadata = [mod_id: mod_id, mod_name: mod_name, mod_version: mod_version,
+                    mod_license: mod_license, mod_authors: mod_authors,
+                    minecraft_version_range: minecraft_version_range,
+                    neo_version_range: neo_version_range,
+                    loader_version_range: loader_version_range]
+    inputs.properties(metadata)
+    filesMatching('META-INF/neoforge.mods.toml') { expand(metadata) }
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+    options.release = 21
+}
+
+tasks.register('copyToDist', Copy) {
+    dependsOn tasks.named('jar')
+    from tasks.named('jar').flatMap { it.archiveFile }
+    into layout.projectDirectory.dir('dist')
+}
+tasks.named('build').configure { dependsOn tasks.named('copyToDist') }

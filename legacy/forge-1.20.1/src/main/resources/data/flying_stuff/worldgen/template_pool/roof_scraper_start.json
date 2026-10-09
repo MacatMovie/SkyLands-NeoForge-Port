@@ -1,0 +1,16 @@
+{
+  "name": "flying_stuff:roof_scraper_start",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:roof_scraper/roof_scraper_base",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+
+}

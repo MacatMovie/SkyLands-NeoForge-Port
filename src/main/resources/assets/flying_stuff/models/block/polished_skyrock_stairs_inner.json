@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "flying_stuff:block/polished_skyrock",
+    "top": "flying_stuff:block/polished_skyrock",
+    "side": "flying_stuff:block/polished_skyrock"
+  },
+  "render_type": "solid"
+}

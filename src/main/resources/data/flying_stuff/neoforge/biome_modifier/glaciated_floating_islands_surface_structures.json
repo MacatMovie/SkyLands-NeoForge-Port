@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "flying_stuff:glaciated_floating_islands",
+  "features": [
+    "flying_stuff:grass_glaciated_patch",
+    "flying_stuff:icespikemedium_0",
+    "flying_stuff:icespikesmall_0",
+    "flying_stuff:icespikesmall_1",
+    "flying_stuff:icespikesmall_2",
+    "flying_stuff:tall_grass"
+  ],
+  "step": "surface_structures"
+}

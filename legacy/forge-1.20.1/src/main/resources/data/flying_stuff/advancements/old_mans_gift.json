@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "flying_stuff:glider"
+    },
+    "title": {
+      "translate": "advancements.old_mans_gift.title"
+    },
+    "description": {
+      "translate": "advancements.old_mans_gift.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "old_mans_gift_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "flying_stuff:glider"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "flying_stuff:sky_lands"
+}

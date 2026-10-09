@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "flying_stuff:shrine_floor_slab",
+    "flying_stuff:shrine_tiles_slab",
+    "flying_stuff:shrine_wall_slab",
+    "flying_stuff:grimstone_tiles_slab",
+    "flying_stuff:grimstone_bricks_slab",
+    "flying_stuff:polished_grimstone_slab",
+    "flying_stuff:grimstone_slab",
+    "flying_stuff:celestial_slab",
+    "flying_stuff:inky_mosaic_slab",
+    "flying_stuff:inky_planks_slab",
+    "flying_stuff:sky_sandstone_slab",
+    "flying_stuff:sky_sandstone_brick_slab",
+    "flying_stuff:polished_sky_sandstone_slab",
+    "flying_stuff:lavic_planks_slab",
+    "flying_stuff:lavic_skyrock_bricks_slab",
+    "flying_stuff:polished_lavic_skyrock_slab",
+    "flying_stuff:lavic_skyrock_slab",
+    "flying_stuff:glaciated_planks_slab",
+    "flying_stuff:glaciated_skyrock_bricks_slab",
+    "flying_stuff:polished_glaciated_skyrock_slab",
+    "flying_stuff:cobbled_glaciated_skyrock_slab",
+    "flying_stuff:glaciated_skyrockslab",
+    "flying_stuff:fiery_planks_slab",
+    "flying_stuff:polished_skyrock_slab",
+    "flying_stuff:tiled_skyrock_slab",
+    "flying_stuff:cobbled_skyrock_slab",
+    "flying_stuff:skyrock_slab"
+  ]
+}

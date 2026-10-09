@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "flying_stuff:fiery_log"
+    },
+    {
+      "item": "flying_stuff:fiery_log"
+    },
+    {
+      "item": "flying_stuff:fiery_log"
+    },
+    {
+      "item": "flying_stuff:fiery_log"
+    }
+  ],
+  "result": {
+    "item": "flying_stuff:fiery_wood",
+    "count": 3
+  }
+}

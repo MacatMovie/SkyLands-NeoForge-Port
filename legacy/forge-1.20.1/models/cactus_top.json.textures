@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "4": "sky_cactus",
+        "5": "sky_cactus_top",
+        "6": "cactus_extern",
+        "8": "cactus_leaf_center",
+        "missing": "cactus_leaf_center",
+        "9": "cactus_leaf"
+      },
+      "name": "default"
+    }
+  }
+}

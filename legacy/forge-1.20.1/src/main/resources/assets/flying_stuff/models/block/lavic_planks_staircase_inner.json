@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "flying_stuff:block/lavic_wood",
+    "top": "flying_stuff:block/lavic_wood",
+    "side": "flying_stuff:block/lavic_wood"
+  },
+  "render_type": "solid"
+}

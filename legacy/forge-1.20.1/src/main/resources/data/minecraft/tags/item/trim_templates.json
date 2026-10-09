@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "flying_stuff:automaton_armor_trim_smithing_template",
+    "flying_stuff:dragon_armor_trim_smithing_template",
+    "flying_stuff:headset_armor_trim_smithing_template",
+    "flying_stuff:chain_armor_trim_smithing_template",
+    "flying_stuff:cyclops_armor_trim_smithing_template",
+    "flying_stuff:aracnid_armor_trim_smithing_template"
+  ]
+}

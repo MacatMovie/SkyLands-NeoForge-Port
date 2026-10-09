@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "flying_stuff:glaciated_great_sky_island",
+      "weight": 3
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1361928249,
+    "spacing": 10,
+    "separation": 7
+  }
+}

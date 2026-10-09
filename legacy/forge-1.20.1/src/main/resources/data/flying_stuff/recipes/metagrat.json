@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "flying_stuff:polished_lavic_skyrock_slab"
+    }
+  },
+  "result": {
+    "item": "flying_stuff:lavic_skyrock_grates",
+    "count": 1
+  }
+}

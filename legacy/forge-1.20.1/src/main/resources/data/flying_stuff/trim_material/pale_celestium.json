@@ -1,0 +1,9 @@
+{
+  "asset_name": "pale_celestium",
+  "description": {
+    "color": "#ecd1c8",
+    "text": "pale_celestium"
+  },
+  "ingredient": "flying_stuff:pale_celestium",
+  "item_model_index": 1.3
+}

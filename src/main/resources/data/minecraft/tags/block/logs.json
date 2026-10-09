@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "flying_stuff:fiery_log",
+    "flying_stuff:lavic_stem",
+    "flying_stuff:glaciated_log",
+    "flying_stuff:skyrockcolumn",
+    "flying_stuff:skyrock_column_base",
+    "flying_stuff:stripped_fierylog",
+    "flying_stuff:stripped_glaciatedlog",
+    "flying_stuff:glaciated_skyrock_pillar",
+    "flying_stuff:glaciated_skyrock_pillar_base",
+    "flying_stuff:fiery_wood",
+    "flying_stuff:glaciated_wood",
+    "flying_stuff:stripped_lavic_stem",
+    "flying_stuff:lavic_wood",
+    "flying_stuff:lavic_skyrock_pipe",
+    "flying_stuff:stripped_fiery_wood",
+    "flying_stuff:stripped_glaciated_wood",
+    "flying_stuff:stripped_lavic_wood",
+    "flying_stuff:celestial_log",
+    "flying_stuff:grimstone_pillar",
+    "flying_stuff:celestial_wood"
+  ]
+}

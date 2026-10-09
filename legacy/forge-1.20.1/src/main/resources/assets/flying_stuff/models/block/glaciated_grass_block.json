@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/cobbled_glaciated_skyrock",
+    "up": "flying_stuff:block/glaciated_grass_block_top",
+    "north": "flying_stuff:block/glaciated_grass_block",
+    "east": "flying_stuff:block/glaciated_grass_block",
+    "south": "flying_stuff:block/glaciated_grass_block",
+    "west": "flying_stuff:block/glaciated_grass_block",
+    "particle": "flying_stuff:block/cobbled_glaciated_skyrock"
+  },
+  "render_type": "solid"
+}

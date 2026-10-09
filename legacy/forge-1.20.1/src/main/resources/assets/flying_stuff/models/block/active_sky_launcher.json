@@ -1,0 +1,11 @@
+{
+  "parent": "flying_stuff:custom/activeskylauncher",
+  "textures": {
+    "all": "flying_stuff:block/jumper_01",
+    "particle": "flying_stuff:block/jumper_01",
+    "2": "flying_stuff:block/jumper_01",
+    "6": "flying_stuff:block/skylauncher_02",
+    "missing": "flying_stuff:block/jumper_01"
+  },
+  "render_type": "translucent"
+}

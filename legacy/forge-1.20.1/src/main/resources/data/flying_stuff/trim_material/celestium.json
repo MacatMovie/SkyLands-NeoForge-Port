@@ -1,0 +1,9 @@
+{
+  "asset_name": "celestium",
+  "description": {
+    "color": "#2afc97",
+    "text": "celestium"
+  },
+  "ingredient": "flying_stuff:celestium",
+  "item_model_index": 1.1
+}

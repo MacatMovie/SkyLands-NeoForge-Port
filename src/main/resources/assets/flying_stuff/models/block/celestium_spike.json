@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "flying_stuff:block/celestium_spike",
+    "particle": "flying_stuff:block/celestium_spike"
+  },
+  "render_type": "cutout"
+}

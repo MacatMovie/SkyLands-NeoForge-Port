@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "flying_stuff:arid_floating_islands",
+  "features": "flying_stuff:dfis_3",
+  "step": "raw_generation"
+}

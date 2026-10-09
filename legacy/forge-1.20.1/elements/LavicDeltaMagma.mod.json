@@ -1,0 +1,13 @@
+{
+  "_fv": 60,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "SURFACE_STRUCTURES",
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:LavicFloatingIslands"
+      }
+    ],
+    "featurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"feature_container\" deletable=\"false\" x=\"40\" y=\"40\"><value name=\"feature\"><block type=\"feature_delta\"><value name=\"contents\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:MoltenMetal</field></block></value><value name=\"rim\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.BASALT</field></block></value><value name=\"size\"><block type=\"int_provider_constant\"><field name=\"value\">3</field></block></value><value name=\"rimSize\"><block type=\"int_provider_constant\"><field name=\"value\">1</field></block></value></block></value><next><block type=\"placement_heightmap\"><field name=\"heightmap\">OCEAN_FLOOR_WG</field><next><block type=\"placement_in_square\"><next><block type=\"placement_biome_filter\"></block></next></block></next></block></next></block></xml>"
+  }
+}

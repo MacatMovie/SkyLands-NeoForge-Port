@@ -1,0 +1,21 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:paletted_permutations",
+      "textures": [
+        "minecraft:trims/items/helmet_trim",
+        "minecraft:trims/items/chestplate_trim",
+        "minecraft:trims/items/leggings_trim",
+        "minecraft:trims/items/boots_trim"
+      ],
+      "palette_key": "minecraft:trims/color_palettes/trim_palette",
+      "permutations": {
+        "celestium": "flying_stuff:trims/color_palettes/celestium",
+        "pearlecent_celestium": "flying_stuff:trims/color_palettes/pearlecent_celestium",
+        "pale_celestium": "flying_stuff:trims/color_palettes/pale_celestium",
+        "inky_celestium": "flying_stuff:trims/color_palettes/inky_celestium",
+        "celestine_crystal": "flying_stuff:trims/color_palettes/celestine_crystal"
+      }
+    }
+  ]
+}

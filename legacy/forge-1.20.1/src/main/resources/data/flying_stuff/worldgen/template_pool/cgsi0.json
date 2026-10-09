@@ -1,0 +1,15 @@
+{
+  "name": "flying_stuff:cgsi0" ,
+  "fallback": "minecraft:empty",
+  "elements": [
+	{
+      "weight": 3,
+    "element": {
+      "element_type": "minecraft:single_pool_element",
+      "projection": "rigid",
+      "location": "flying_stuff:gsicherry/cgsi0-chunk_center",
+      "processors": "minecraft:empty"
+    }}
+   ]
+   
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "flying_stuff:block/skymetal_tiles",
+    "top": "flying_stuff:block/skymetal_tiles",
+    "side": "flying_stuff:block/skymetal_tiles"
+  },
+  "render_type": "solid"
+}

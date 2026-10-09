@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "texture": "flying_stuff:block/lavic_wood"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,21 @@
+{
+  "description": {
+    "translate": "enchantment.flying_stuff.lightweight"
+  },
+  "supported_items": "#flying_stuff:gliders",
+  "weight": 2,
+  "max_level": 5,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 6,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 4,
+  "slots": [
+    "mainhand"
+  ],
+  "effects": {}
+}

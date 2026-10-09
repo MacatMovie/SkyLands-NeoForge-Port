@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/firey_planks",
+    "up": "flying_stuff:block/firey_planks",
+    "north": "flying_stuff:block/firey_planks",
+    "east": "flying_stuff:block/firey_planks",
+    "south": "flying_stuff:block/firey_planks",
+    "west": "flying_stuff:block/firey_planks",
+    "particle": "flying_stuff:block/firey_planks"
+  },
+  "render_type": "solid"
+}

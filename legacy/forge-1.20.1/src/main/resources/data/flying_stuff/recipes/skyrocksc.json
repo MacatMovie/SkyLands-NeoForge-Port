@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "flying_stuff:cobbled_skyrock"
+  },
+  "result": "flying_stuff:tiled_skyrock"
+}

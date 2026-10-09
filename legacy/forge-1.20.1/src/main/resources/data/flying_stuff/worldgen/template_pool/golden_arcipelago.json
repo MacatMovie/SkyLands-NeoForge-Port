@@ -1,0 +1,64 @@
+{
+  "name":"flying_stuff:golden_arcipelago",
+  "fallback": "minecraft:empty",
+  "elements": [
+	{
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:golden_archipelago/ga2",
+        "processors": "minecraft:empty"
+   		}
+   },{
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:golden_archipelago/ga3",
+        "processors": "minecraft:empty"
+   		}},
+   	{
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:golden_archipelago/ga4",
+        "processors": "minecraft:empty"
+   		}
+   },{
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:golden_archipelago/ga5",
+        "processors": "minecraft:empty"
+ 	  }
+   },{
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:golden_archipelago/connection0",
+        "processors": "minecraft:empty"
+ 	  }
+   },{
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:golden_archipelago/connection2",
+        "processors": "minecraft:empty"
+ 	  }
+   },{
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:golden_archipelago/empty",
+        "processors": "minecraft:empty"
+ 	  }
+   }
+   ]
+   
+}

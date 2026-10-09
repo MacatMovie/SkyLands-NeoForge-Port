@@ -1,0 +1,21 @@
+{
+  "_fv": 60,
+  "_type": "particle",
+  "definition": {
+    "texture": "cloud_realbig.png",
+    "animate": false,
+    "frameDuration": 1,
+    "width": 64.0,
+    "height": 64.0,
+    "scale": 192.0,
+    "speedFactor": 1.0,
+    "gravity": 0.0,
+    "maxAge": 220,
+    "maxAgeDiff": 20,
+    "angularVelocity": 0.0,
+    "angularAcceleration": 0.0,
+    "canCollide": false,
+    "alwaysShow": true,
+    "renderType": "TRANSLUCENT"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "flying_stuff:floating_cherry_grove",
+  "features": "flying_stuff:cherry_tree",
+  "step": "vegetal_decoration"
+}

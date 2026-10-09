@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "flying_stuff:fiery_planks_door",
+    "flying_stuff:glaciated_planks_door",
+    "flying_stuff:lavic_planks_door",
+    "flying_stuff:inky_planks_door",
+    "flying_stuff:celestial_door"
+  ]
+}

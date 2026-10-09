@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "flying_stuff:block/cobbled_skyrock",
+    "particle": "flying_stuff:block/cobbled_skyrock"
+  },
+  "render_type": "solid"
+}

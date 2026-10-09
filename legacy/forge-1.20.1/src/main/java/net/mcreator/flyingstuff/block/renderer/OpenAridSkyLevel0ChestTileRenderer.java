@@ -1,0 +1,21 @@
+package net.mcreator.flyingstuff.block.renderer;
+
+import software.bernie.geckolib.renderer.GeoBlockRenderer;
+
+import net.minecraft.resources.ResourceLocation;
+import net.minecraft.client.renderer.RenderType;
+import net.minecraft.client.renderer.MultiBufferSource;
+
+import net.mcreator.flyingstuff.block.model.OpenAridSkyLevel0ChestBlockModel;
+import net.mcreator.flyingstuff.block.entity.OpenAridSkyLevel0ChestTileEntity;
+
+public class OpenAridSkyLevel0ChestTileRenderer extends GeoBlockRenderer<OpenAridSkyLevel0ChestTileEntity> {
+	public OpenAridSkyLevel0ChestTileRenderer() {
+		super(new OpenAridSkyLevel0ChestBlockModel());
+	}
+
+	@Override
+	public RenderType getRenderType(OpenAridSkyLevel0ChestTileEntity animatable, ResourceLocation texture, MultiBufferSource bufferSource, float partialTick) {
+		return RenderType.entityTranslucent(getTextureLocation(animatable));
+	}
+}

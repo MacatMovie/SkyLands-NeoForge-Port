@@ -1,0 +1,9 @@
+{
+  "asset_name": "pearlecent_celestium",
+  "description": {
+    "color": "#ad24e1",
+    "text": "pearlecent_celestium"
+  },
+  "ingredient": "flying_stuff:amber_celestium",
+  "item_model_index": 1.2
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "flying_stuff:polished_skyrock"
+    }
+  },
+  "result": {
+    "item": "flying_stuff:polished_skyrock_slab",
+    "count": 6
+  }
+}

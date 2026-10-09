@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "flying_stuff:flying_islands",
+  "step": "top_layer_modification",
+  "spawn_overrides": {},
+  "start_pool": "flying_stuff:island_cluster",
+  "size": 6,
+  "start_height": {
+    "type": "minecraft:trapezoid",
+    "min_inclusive": {
+      "absolute": 280
+    },
+    "max_inclusive": {
+      "absolute": 470
+    }
+  },
+  "max_distance_from_center": 115,
+  "use_expansion_hack": false
+}

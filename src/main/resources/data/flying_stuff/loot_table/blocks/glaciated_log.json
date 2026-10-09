@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "flying_stuff:blocks/glaciated_log",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "flying_stuff:glaciated_log"
+        }
+      ]
+    }
+  ]
+}

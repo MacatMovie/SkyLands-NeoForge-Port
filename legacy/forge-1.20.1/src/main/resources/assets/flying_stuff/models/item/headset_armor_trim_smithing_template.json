@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "flying_stuff:item/headset_armor_trim"
+  }
+}

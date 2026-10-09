@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "flying_stuff:grimstone_bricks"
+    }
+  },
+  "result": {
+    "item": "flying_stuff:grimstone_tiles",
+    "count": 4
+  }
+}

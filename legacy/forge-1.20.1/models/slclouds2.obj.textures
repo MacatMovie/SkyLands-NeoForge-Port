@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Material.001": "roundaboutcloud"
+      },
+      "name": "default"
+    }
+  }
+}

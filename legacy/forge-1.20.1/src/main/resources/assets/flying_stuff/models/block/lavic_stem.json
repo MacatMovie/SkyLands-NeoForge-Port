@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/lavic_stem_top",
+    "up": "flying_stuff:block/lavic_stem_top",
+    "north": "flying_stuff:block/lavic_log_side",
+    "east": "flying_stuff:block/lavic_log_side",
+    "south": "flying_stuff:block/lavic_log_side",
+    "west": "flying_stuff:block/lavic_log_side",
+    "particle": "flying_stuff:block/lavic_stem_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "flying_stuff:block/warmth_radish_plant",
+    "particle": "flying_stuff:block/warmth_radish_plant"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "flying_stuff:block/mini_sky_cactus",
+    "particle": "flying_stuff:block/mini_sky_cactus"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "flying_stuff:inky_planks"
+    },
+    {
+      "item": "flying_stuff:inky_planks"
+    },
+    {
+      "item": "flying_stuff:inky_planks"
+    },
+    {
+      "item": "flying_stuff:inky_planks"
+    },
+    {
+      "item": "flying_stuff:inky_planks"
+    },
+    {
+      "item": "flying_stuff:inky_planks"
+    }
+  ],
+  "result": {
+    "item": "flying_stuff:inky_planks_stairs",
+    "count": 4
+  }
+}

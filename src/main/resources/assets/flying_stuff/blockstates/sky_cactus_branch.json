@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "flying_stuff:block/sky_cactus_branch"
+    },
+    "facing=east": {
+      "model": "flying_stuff:block/sky_cactus_branch",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "flying_stuff:block/sky_cactus_branch",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "flying_stuff:block/sky_cactus_branch",
+      "y": 270
+    }
+  }
+}

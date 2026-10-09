@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "flying_stuff:block/inky_mosaic_slab"
+    },
+    "type=top": {
+      "model": "flying_stuff:block/inky_mosaic_slab_top"
+    },
+    "type=double": {
+      "model": "flying_stuff:block/inky_mosaic_slab_full"
+    }
+  }
+}

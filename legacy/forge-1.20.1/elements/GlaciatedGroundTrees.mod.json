@@ -1,0 +1,13 @@
+{
+  "_fv": 60,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "VEGETAL_DECORATION",
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:GlaciatedFliningIslands"
+      }
+    ],
+    "featurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"feature_container\" deletable=\"false\" x=\"40\" y=\"40\"><value name=\"feature\"><block type=\"feature_tree_spruce\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" inputs=\"0\"></mutation><field name=\"base_height\">7</field><field name=\"height_variation_a\">2</field><field name=\"height_variation_b\">1</field><field name=\"force_dirt\">FALSE</field><field name=\"ignore_vines\">TRUE</field><value name=\"dirt\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.DIRT#0</field></block></value><value name=\"trunk\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.LOG#2</field></block></value><value name=\"foliage\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.LEAVES#0</field></block></value><value name=\"radius\"><block type=\"int_provider_uniform\"><field name=\"min\">2</field><field name=\"max\">3</field></block></value><value name=\"trunk_height\"><block type=\"int_provider_uniform\"><field name=\"min\">1</field><field name=\"max\">4</field></block></value><value name=\"root_placer\"><block type=\"root_placer_none\"></block></value></block></value><next><block type=\"placement_in_square\"><next><block type=\"placement_count\"><value name=\"count\"><block type=\"int_provider_constant\"><field name=\"value\">2</field></block></value><next><block type=\"placement_heightmap\"><field name=\"heightmap\">OCEAN_FLOOR</field><next><block type=\"placement_biome_filter\"><next><block type=\"placement_block_survival_filter\"><value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.TALLGRASS#1</field></block></value></block></next></block></next></block></next></block></next></block></next></block></xml>"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:string"
+    },
+    "b": {
+      "tag": "minecraft:wool"
+    },
+    "c": {
+      "item": "flying_stuff:mechanic_glider_design"
+    }
+  },
+  "result": {
+    "item": "flying_stuff:mechanic_glider_design",
+    "count": 2
+  }
+}

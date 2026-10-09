@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "flying_stuff:lavic_planks"
+    }
+  },
+  "result": {
+    "count": 2,
+    "id": "flying_stuff:lavic_planks_trapdoor"
+  }
+}

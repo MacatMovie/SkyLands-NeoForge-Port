@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "flying_stuff:block/polished_sky_sandstone_slab"
+    },
+    "type=top": {
+      "model": "flying_stuff:block/polished_sky_sandstone_slab_top"
+    },
+    "type=double": {
+      "model": "flying_stuff:block/polished_sky_sandstone_slab_full"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "flying_stuff:floating_cherry_grove",
+  "features": [
+    "flying_stuff:dirt_patch",
+    "flying_stuff:grass_patch",
+    "flying_stuff:spl_01_feature",
+    "flying_stuff:spm_01_feature",
+    "flying_stuff:sps_01_feature"
+  ],
+  "step": "surface_structures"
+}

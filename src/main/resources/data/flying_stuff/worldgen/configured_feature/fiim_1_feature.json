@@ -1,0 +1,17 @@
+{
+  "type": "flying_stuff:structure_feature",
+  "config": {
+    "structure": "flying_stuff:isle_ice_medium_69",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": [
+      "minecraft:structure_block",
+      "minecraft:air"
+    ],
+    "offset": [
+      0,
+      20,
+      0
+    ]
+  }
+}

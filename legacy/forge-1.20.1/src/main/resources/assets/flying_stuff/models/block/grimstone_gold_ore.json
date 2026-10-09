@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/grimstone_gold_ore",
+    "up": "flying_stuff:block/grimstone_gold_ore",
+    "north": "flying_stuff:block/grimstone_gold_ore",
+    "east": "flying_stuff:block/grimstone_gold_ore",
+    "south": "flying_stuff:block/grimstone_gold_ore",
+    "west": "flying_stuff:block/grimstone_gold_ore",
+    "particle": "flying_stuff:block/grimstone_gold_ore"
+  },
+  "render_type": "solid"
+}

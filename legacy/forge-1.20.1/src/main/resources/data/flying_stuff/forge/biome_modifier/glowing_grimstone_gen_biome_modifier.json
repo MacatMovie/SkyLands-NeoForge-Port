@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "flying_stuff:the_underground",
+    "flying_stuff:abyssal_city"
+  ],
+  "features": "flying_stuff:glowing_grimstone_gen",
+  "step": "raw_generation"
+}

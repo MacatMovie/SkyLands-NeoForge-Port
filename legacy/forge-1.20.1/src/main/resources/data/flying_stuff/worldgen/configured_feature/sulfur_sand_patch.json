@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:delta_feature",
+  "config": {
+    "contents": {
+      "Name": "flying_stuff:sulfur_sand"
+    },
+    "rim": {
+      "Name": "flying_stuff:sulfur_block"
+    },
+    "size": 4,
+    "rim_size": 2
+  }
+}

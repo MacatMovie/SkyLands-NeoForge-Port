@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "flying_stuff:block/polished_sky_sandstone",
+    "top": "flying_stuff:block/polished_sky_sandstone",
+    "side": "flying_stuff:block/polished_sky_sandstone"
+  },
+  "render_type": "solid"
+}

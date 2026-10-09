@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/celestium_block",
+    "up": "flying_stuff:block/celestium_block",
+    "north": "flying_stuff:block/celestium_block",
+    "east": "flying_stuff:block/celestium_block",
+    "south": "flying_stuff:block/celestium_block",
+    "west": "flying_stuff:block/celestium_block",
+    "particle": "flying_stuff:block/celestium_block"
+  },
+  "render_type": "solid"
+}

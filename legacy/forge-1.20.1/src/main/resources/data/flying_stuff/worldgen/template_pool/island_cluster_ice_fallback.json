@@ -1,0 +1,16 @@
+{
+  "name":"flying_stuff:island_cluster_ice_fallback",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:island_cluster_ice/ici_fallback",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+   
+}

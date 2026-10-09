@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "flying_stuff:block/glaciated_skyrock_pillar_base",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "flying_stuff:block/glaciated_skyrock_pillar_base"
+    },
+    "axis=z": {
+      "model": "flying_stuff:block/glaciated_skyrock_pillar_base",
+      "x": 90
+    }
+  }
+}

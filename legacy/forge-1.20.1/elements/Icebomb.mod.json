@@ -1,0 +1,25 @@
+{
+  "_fv": 60,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "CUSTOM:Cristalizedice"
+    },
+    "showParticles": false,
+    "actionSound": {
+      "value": "CUSTOM:ice_bomb_trown"
+    },
+    "igniteFire": false,
+    "power": 0.8,
+    "damage": 5.0,
+    "knockback": 1,
+    "entityModel": "Default",
+    "customModelTexture": "smokeflower.png",
+    "onHitsBlock": {
+      "name": "IcebombProjectileHitsBlock"
+    },
+    "onHitsEntity": {
+      "name": "IcebombProjectileHitsBlock"
+    }
+  }
+}

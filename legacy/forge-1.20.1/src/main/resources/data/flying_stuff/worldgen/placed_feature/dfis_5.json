@@ -1,0 +1,37 @@
+{
+  "feature": "flying_stuff:dfis_5",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 400
+    },
+    {
+      "type": "minecraft:count",
+      "count": {
+        "type": "uniform",
+        "value": {
+          "min_inclusive": 1,
+          "max_inclusive": 1
+        }
+      }
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": {
+          "absolute": 340
+        },
+        "max_inclusive": {
+          "below_top": 140
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

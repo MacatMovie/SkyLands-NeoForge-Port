@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/shrine_tiles",
+    "up": "flying_stuff:block/shrine_tiles",
+    "north": "flying_stuff:block/shrine_wall",
+    "east": "flying_stuff:block/shrine_wall",
+    "south": "flying_stuff:block/shrine_wall",
+    "west": "flying_stuff:block/shrine_wall",
+    "particle": "flying_stuff:block/shrine_tiles"
+  },
+  "render_type": "solid"
+}

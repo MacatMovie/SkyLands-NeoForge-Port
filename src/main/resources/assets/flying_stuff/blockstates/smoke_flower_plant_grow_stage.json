@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "flying_stuff:block/smoke_flower_plant_grow_stage"
+    },
+    "half=lower": {
+      "model": "flying_stuff:block/smoke_flower_plant_grow_stage_bottom"
+    }
+  }
+}

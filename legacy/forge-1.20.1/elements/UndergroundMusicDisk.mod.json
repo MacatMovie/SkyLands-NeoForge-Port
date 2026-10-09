@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "rarity": "UNCOMMON",
+    "texture": "disk_underground",
+    "description": "DeepCanionStudio - Broken Bedrock",
+    "creativeTab": {
+      "value": "CUSTOM:SkyLandsItems"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:underground_music_disk"
+    },
+    "lengthInTicks": 1900,
+    "analogOutput": 10
+  }
+}

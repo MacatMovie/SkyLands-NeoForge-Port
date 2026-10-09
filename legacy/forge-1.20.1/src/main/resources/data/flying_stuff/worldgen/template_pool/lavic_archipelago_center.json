@@ -1,0 +1,16 @@
+{
+  "name":"flying_stuff:lavic_archipelago_center",
+  "fallback": "minecraft:empty",
+  "elements": [
+	{
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:lavic_archipelago/la-center",
+        "processors": "minecraft:empty"
+   		}
+   }
+   ]
+   
+}

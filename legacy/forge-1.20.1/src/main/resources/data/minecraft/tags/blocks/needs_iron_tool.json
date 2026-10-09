@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "flying_stuff:small_celestine_spike",
+    "flying_stuff:celestine_spike",
+    "flying_stuff:grimstone_lapis_ore",
+    "flying_stuff:grimstone_redstone_ore",
+    "flying_stuff:grimstone_diamond_ore",
+    "flying_stuff:grimstone_gold_ore",
+    "flying_stuff:celestine_block",
+    "flying_stuff:inky_celestium_ore",
+    "flying_stuff:deactivated_storm_block",
+    "flying_stuff:storm_block",
+    "flying_stuff:pale_celestium_ore",
+    "flying_stuff:celestium_block",
+    "flying_stuff:celestiumore"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_orientable_trapdoor_bottom",
+  "textures": {
+    "texture": "flying_stuff:block/fiery_planks_trapdoor",
+    "particle": "flying_stuff:block/fiery_planks_trapdoor"
+  },
+  "render_type": "cutout"
+}

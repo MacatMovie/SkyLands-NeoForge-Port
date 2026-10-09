@@ -1,0 +1,34 @@
+{
+  "name": "flying_stuff:abyssal_city",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:abyssal_city/bridge_straight",
+        "processors": "minecraft:empty"
+      }
+   },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:abyssal_city/bridge_curve",
+        "processors": "minecraft:empty"
+      }
+   },
+    {
+      "weight": 9,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:abyssal_city/pillar",
+        "processors": "minecraft:empty"
+      }
+   }
+  ]
+   
+}

@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "flying_stuff:glaciated_floating_islands",
+    "minecraft:grove",
+    "minecraft:frozen_peaks",
+    "minecraft:deep_frozen_ocean",
+    "minecraft:jagged_peaks",
+    "minecraft:snowy_plains"
+  ],
+  "features": "flying_stuff:fiim_2",
+  "step": "raw_generation"
+}

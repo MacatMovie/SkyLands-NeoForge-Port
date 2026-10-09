@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "CUSTOM:IgneusLaserBlade"
+    },
+    "showParticles": false,
+    "actionSound": {
+      "value": "CUSTOM:fireblade_sound"
+    },
+    "igniteFire": true,
+    "power": 1.1,
+    "damage": 2.0,
+    "knockback": 1,
+    "entityModel": "Default",
+    "customModelTexture": "",
+    "onFlyingTick": {
+      "name": "FireWaveWhileProjectileFlyingTick"
+    }
+  }
+}

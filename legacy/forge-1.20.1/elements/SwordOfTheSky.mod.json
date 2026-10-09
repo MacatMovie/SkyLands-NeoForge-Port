@@ -1,0 +1,39 @@
+{
+  "_fv": 60,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "sword_of_the_sky",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Sword Of The Sky",
+    "specialInformation": {
+      "fixedValue": [
+        "Can Be Infused with All Celestium Types"
+      ]
+    },
+    "creativeTab": {
+      "value": "CUSTOM:SkyLandsItems"
+    },
+    "harvestLevel": 1,
+    "efficiency": 2.0,
+    "attackSpeed": 1.65,
+    "enchantability": 20,
+    "damageVsEntity": 9.0,
+    "usageCount": 3104,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:IngotOfTheSky"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

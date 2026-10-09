@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "flying_stuff:celestial_fence",
+    "flying_stuff:inky_planks_fence",
+    "flying_stuff:lavic_planks_fence",
+    "flying_stuff:glaciated_planks_fence",
+    "flying_stuff:fiery_planks_fence"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "flying_stuff:sky_cactus"
+    }
+  ],
+  "result": {
+    "item": "flying_stuff:inky_planks",
+    "count": 4
+  }
+}

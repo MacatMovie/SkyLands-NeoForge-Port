@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "flying_stuff:swampy_grass",
+    "flying_stuff:cherry_short_grass",
+    "flying_stuff:cherry_grass",
+    "flying_stuff:glaciated_fern",
+    "flying_stuff:lavic_mushrooms",
+    "flying_stuff:golden_fern",
+    "flying_stuff:small_sky_cactus",
+    "flying_stuff:small_arid_bush",
+    "flying_stuff:arid_grass",
+    "flying_stuff:metallic_shorter_grass",
+    "flying_stuff:short_lavic_grass",
+    "flying_stuff:tall_glaciated_grass",
+    "flying_stuff:short_glaciated_grass",
+    "flying_stuff:fiery_short_grass",
+    "flying_stuff:fiery_grass"
+  ]
+}

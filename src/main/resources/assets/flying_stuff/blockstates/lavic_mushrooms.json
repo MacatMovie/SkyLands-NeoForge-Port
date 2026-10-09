@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "flying_stuff:block/lavic_mushrooms"
+    },
+    "half=lower": {
+      "model": "flying_stuff:block/lavic_mushrooms_bottom"
+    }
+  }
+}

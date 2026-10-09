@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "flying_stuff:item/smithing_template_upgrade_of_the_sky"
+  }
+}

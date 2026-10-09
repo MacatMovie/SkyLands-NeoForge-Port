@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/lavic_fungus",
+    "up": "flying_stuff:block/lavic_fungus",
+    "north": "flying_stuff:block/lavic_fungus",
+    "east": "flying_stuff:block/lavic_fungus",
+    "south": "flying_stuff:block/lavic_fungus",
+    "west": "flying_stuff:block/lavic_fungus",
+    "particle": "flying_stuff:block/lavic_fungus"
+  },
+  "render_type": "cutout"
+}

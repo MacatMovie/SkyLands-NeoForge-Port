@@ -1,0 +1,8 @@
+{
+  "asset_id":"flying_stuff:cyclops",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.flying_stuff.cyclops"
+  },
+  "template_item": "flying_stuff:cyclops_armor_trim_smithing_template"
+}

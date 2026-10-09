@@ -1,0 +1,6 @@
+{
+  "parent": "flying_stuff:displaysettings/abyssal_door",
+  "textures": {
+    "particle": "flying_stuff:block/abyssal_door"
+  }
+}

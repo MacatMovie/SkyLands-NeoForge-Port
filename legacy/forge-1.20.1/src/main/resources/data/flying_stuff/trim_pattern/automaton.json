@@ -1,0 +1,8 @@
+{
+  "asset_id":"flying_stuff:automaton",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.flying_stuff.automaton"
+  },
+  "template_item": "flying_stuff:automaton_armor_trim_smithing_template"
+}

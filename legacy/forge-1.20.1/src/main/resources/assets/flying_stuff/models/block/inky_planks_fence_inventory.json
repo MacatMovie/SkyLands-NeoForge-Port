@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "flying_stuff:block/inky_wood",
+    "particle": "flying_stuff:block/inky_wood"
+  },
+  "render_type": "solid"
+}

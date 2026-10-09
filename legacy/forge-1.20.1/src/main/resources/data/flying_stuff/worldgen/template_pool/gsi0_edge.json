@@ -1,0 +1,16 @@
+{
+  "name": "flying_stuff:gsi0_edge" ,
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:gsi_big/edge0",
+        "processors": "minecraft:empty"
+      }
+    }
+   ]
+   
+}

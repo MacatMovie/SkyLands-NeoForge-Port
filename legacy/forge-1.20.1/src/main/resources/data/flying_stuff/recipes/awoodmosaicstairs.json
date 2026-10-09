@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "flying_stuff:inky_mosaic"
+    },
+    {
+      "item": "flying_stuff:inky_mosaic"
+    },
+    {
+      "item": "flying_stuff:inky_mosaic"
+    },
+    {
+      "item": "flying_stuff:inky_mosaic"
+    },
+    {
+      "item": "flying_stuff:inky_mosaic"
+    },
+    {
+      "item": "flying_stuff:inky_mosaic"
+    }
+  ],
+  "result": {
+    "item": "flying_stuff:inky_mosaic_stairs",
+    "count": 4
+  }
+}

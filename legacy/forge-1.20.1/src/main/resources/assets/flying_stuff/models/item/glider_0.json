@@ -1,0 +1,7 @@
+{
+  "parent": "flying_stuff:custom/hangglider",
+  "textures": {
+    "2": "flying_stuff:block/glider_tex",
+    "particle": "flying_stuff:item/test"
+  }
+}

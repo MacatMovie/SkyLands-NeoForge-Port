@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "flying_stuff:glaciated_floating_islands",
+  "features": [
+    "flying_stuff:fiim_0_feature",
+    "flying_stuff:fiim_1_feature",
+    "flying_stuff:fiis_0_feature",
+    "flying_stuff:fiisc_0"
+  ],
+  "step": "raw_generation"
+}

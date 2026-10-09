@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "flying_stuff:sky_sandstone_brick_slab"
+    }
+  },
+  "result": {
+    "item": "flying_stuff:sky_sandstone_pillar_base",
+    "count": 1
+  }
+}

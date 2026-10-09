@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "flying_stuff:glaciated_log"
+    }
+  ],
+  "result": {
+    "item": "flying_stuff:glaciated_planks",
+    "count": 4
+  }
+}

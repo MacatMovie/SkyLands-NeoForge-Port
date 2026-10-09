@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GlaciatedLog"
+      },
+      {
+        "value": "CUSTOM:GlaciatedLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GlaciatedLog"
+      },
+      {
+        "value": "CUSTOM:GlaciatedLog"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GlaciatedWood"
+    },
+    "name": "gwoodwood",
+    "namespace": "mod"
+  }
+}

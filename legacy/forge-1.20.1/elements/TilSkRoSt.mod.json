@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TiledSkyrock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TiledSkyrock"
+      },
+      {
+        "value": "CUSTOM:TiledSkyrock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TiledSkyrock"
+      },
+      {
+        "value": "CUSTOM:TiledSkyrock"
+      },
+      {
+        "value": "CUSTOM:TiledSkyrock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TiledSkyrockStairs"
+    },
+    "name": "til_sk_ro_st",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "flying_stuff:glaciated_floating_islands",
+    "flying_stuff:floating_swamp"
+  ],
+  "features": "flying_stuff:icespikesmall_2",
+  "step": "surface_structures"
+}

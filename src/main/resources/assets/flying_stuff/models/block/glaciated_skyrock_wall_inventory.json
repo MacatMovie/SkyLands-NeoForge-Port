@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "flying_stuff:block/glaciated_skyrock",
+    "particle": "flying_stuff:block/glaciated_skyrock"
+  },
+  "render_type": "solid"
+}

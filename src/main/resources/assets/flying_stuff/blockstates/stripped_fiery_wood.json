@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "flying_stuff:block/stripped_fiery_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "flying_stuff:block/stripped_fiery_wood"
+    },
+    "axis=z": {
+      "model": "flying_stuff:block/stripped_fiery_wood",
+      "x": 90
+    }
+  }
+}

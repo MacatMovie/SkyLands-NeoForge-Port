@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "flying_stuff:fiery_pressure_plate",
+    "flying_stuff:glaciated_wood_pressure_plate",
+    "flying_stuff:lavic_pressure_plate",
+    "flying_stuff:inky_pressure_plate",
+    "flying_stuff:celestial_pressure_plate"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "flying_stuff:polished_sky_sandstone"
+    }
+  },
+  "result": {
+    "item": "flying_stuff:sky_sandstone_bricks",
+    "count": 4
+  }
+}

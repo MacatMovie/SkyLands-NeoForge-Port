@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:simple_random_selector",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "flying_stuff:structure_feature",
+          "config": {
+            "structure": "flying_stuff:sulfur_spike0",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:air",
+            "offset": [
+              0,
+              -7,
+              0
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "flying_stuff:structure_feature",
+          "config": {
+            "structure": "flying_stuff:sulfur_spike1",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:air",
+            "offset": [
+              0,
+              -7,
+              0
+            ]
+          }
+        },
+        "placement": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "name": "flying_stuff:cgsi0_nc" ,
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:gsicherry/cgsi0-chunk0",
+        "processors": "minecraft:empty"
+      }
+    },{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:gsicherry/cgsi0-chunk1",
+        "processors": "minecraft:empty"
+      }
+   },{
+      "weight": 4,
+    "element": {
+      "element_type": "minecraft:single_pool_element",
+      "projection": "rigid",
+      "location": "flying_stuff:gsicherry/cgsi0-edge0",
+      "processors": "minecraft:empty"
+    }
+   },{
+      "weight": 2,
+    "element": {
+      "element_type": "minecraft:single_pool_element",
+      "projection": "rigid",
+      "location": "flying_stuff:gsicherry/cgsi0-chunk2",
+      "processors": "minecraft:empty"
+    }
+   },{
+      "weight": 3,
+    "element": {
+      "element_type": "minecraft:single_pool_element",
+      "projection": "rigid",
+      "location": "flying_stuff:gsicherry/cgsi0-chunk3",
+      "processors": "minecraft:empty"
+    }
+   },{
+      "weight": 3,
+    "element": {
+      "element_type": "minecraft:single_pool_element",
+      "projection": "rigid",
+      "location": "flying_stuff:gsicherry/cgsi0-chunk4",
+      "processors": "minecraft:empty"
+    }
+   },{
+      "weight": 2,
+    "element": {
+      "element_type": "minecraft:single_pool_element",
+      "projection": "rigid",
+      "location": "flying_stuff:gsicherry/cgsi0-chunk_tall",
+      "processors": "minecraft:empty"
+    }
+   },{
+      "weight": 2,
+    "element": {
+      "element_type": "minecraft:single_pool_element",
+      "projection": "rigid",
+      "location": "flying_stuff:gsicherry/cgsi0-chunk5",
+      "processors": "minecraft:empty"
+    }},{
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:gsicherry/cgsi0-chunk6",
+        "processors": "minecraft:empty"
+      }},{
+      "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "flying_stuff:gsicherry/cgsi0-chunk7",
+          "processors": "minecraft:empty"
+        }},{
+      "weight": 1,
+          "element": {
+            "element_type": "minecraft:single_pool_element",
+            "projection": "rigid",
+            "location": "flying_stuff:gsicherry/cgsi0-chunk8",
+            "processors": "minecraft:empty"
+          }},{
+      "weight": 1,
+            "element": {
+              "element_type": "minecraft:single_pool_element",
+              "projection": "rigid",
+              "location": "flying_stuff:gsicherry/cgsi0-chunk9",
+              "processors": "minecraft:empty"
+            }}
+   ]
+   
+}

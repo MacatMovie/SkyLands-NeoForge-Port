@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/abyss_leaves",
+    "up": "flying_stuff:block/abyss_leaves",
+    "north": "flying_stuff:block/abyss_leaves",
+    "east": "flying_stuff:block/abyss_leaves",
+    "south": "flying_stuff:block/abyss_leaves",
+    "west": "flying_stuff:block/abyss_leaves",
+    "particle": "flying_stuff:block/abyss_leaves"
+  },
+  "render_type": "cutout"
+}

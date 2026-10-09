@@ -1,0 +1,9 @@
+{
+  "asset_name": "inky_celestium",
+  "description": {
+    "color": "#292929",
+    "text": "inky_celestium"
+  },
+  "ingredient": "flying_stuff:inky_celestium",
+  "item_model_index": 1.4
+}

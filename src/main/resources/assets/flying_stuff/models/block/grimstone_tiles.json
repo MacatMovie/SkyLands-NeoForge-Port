@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/grimstone_tiles",
+    "up": "flying_stuff:block/grimstone_tiles",
+    "north": "flying_stuff:block/grimstone_tiles",
+    "east": "flying_stuff:block/grimstone_tiles",
+    "south": "flying_stuff:block/grimstone_tiles",
+    "west": "flying_stuff:block/grimstone_tiles",
+    "particle": "flying_stuff:block/grimstone_tiles"
+  },
+  "render_type": "solid"
+}

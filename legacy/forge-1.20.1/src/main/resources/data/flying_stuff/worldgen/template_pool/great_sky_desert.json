@@ -1,0 +1,80 @@
+{
+  "name":"flying_stuff:great_sky_desert",
+  "fallback": "minecraft:empty",
+  "elements": [
+	{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:great_sky_desert/gss0",
+        "processors": "minecraft:empty"
+   		}
+   },{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:great_sky_desert/gss1",
+        "processors": "minecraft:empty"
+   		}
+   },{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:great_sky_desert/gss2",
+        "processors": "minecraft:empty"
+   		}},
+   	{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:great_sky_desert/gss3",
+        "processors": "minecraft:empty"
+   		}
+   },{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:great_sky_desert/gss4",
+        "processors": "minecraft:empty"
+   		}
+   },{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:great_sky_desert/gss5",
+        "processors": "minecraft:empty"
+   		}
+   },{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:great_sky_desert/gss6",
+        "processors": "minecraft:empty"
+   		}
+   },{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:great_sky_desert/gss7",
+        "processors": "minecraft:empty"
+   		}
+   },{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "flying_stuff:great_sky_desert/gss8",
+        "processors": "minecraft:empty"
+   		}
+   }
+   ]
+   
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "flying_stuff:block/glaciated_fern"
+    },
+    "half=lower": {
+      "model": "flying_stuff:block/glaciated_fern_bottom"
+    }
+  }
+}

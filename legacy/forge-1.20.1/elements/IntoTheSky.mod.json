@@ -1,0 +1,25 @@
+{
+  "_fv": 60,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Into The Sky",
+    "achievementDescription": "Visit One Of The Sky Island Biomes",
+    "achievementIcon": {
+      "value": "CUSTOM:CloudBlock"
+    },
+    "background": "skyrock.png",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardFunction": "No function",
+    "rewardXP": 0,
+    "achievementType": "goal",
+    "parent": {
+      "value": "CUSTOM:SkyLands"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"advancement_trigger\" deletable=\"false\" x=\"40\" y=\"80\"><next><block type=\"biome_entered\"><field name=\"biome\">CUSTOM:FlyingIslands</field><next><block type=\"biome_entered\"><field name=\"biome\">CUSTOM:GlaciatedFliningIslands</field><next><block type=\"biome_entered\"><field name=\"biome\">CUSTOM:LavicFloatingIslands</field><next><block type=\"biome_entered\"><field name=\"biome\">CUSTOM:AridFloatingIslands</field><next><block type=\"biome_entered\"><field name=\"biome\">CUSTOM:FloatingCherryBlossom</field><next><block type=\"biome_entered\"><field name=\"biome\">CUSTOM:FloatingSwamp</field></block></next></block></next></block></next></block></next></block></next></block></next></block></xml>"
+  }
+}

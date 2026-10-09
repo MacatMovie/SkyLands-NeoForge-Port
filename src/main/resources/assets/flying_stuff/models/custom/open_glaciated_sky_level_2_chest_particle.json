@@ -1,0 +1,6 @@
+{
+  "parent": "flying_stuff:displaysettings/golden_sky_chest_lvl1.item",
+  "textures": {
+    "particle": "flying_stuff:block/polished_glaciated_skyrock"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "flying_stuff:launcher_01_feature",
+  "config": {
+    "structure": "flying_stuff:launcher_part0",
+    "random_rotation": true,
+    "ignored_blocks": [
+      "minecraft:structure_block",
+      "minecraft:air"
+    ]
+  }
+}

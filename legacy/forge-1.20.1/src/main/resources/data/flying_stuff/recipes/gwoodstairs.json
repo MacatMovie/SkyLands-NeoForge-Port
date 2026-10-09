@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "flying_stuff:glaciated_planks"
+    }
+  },
+  "result": {
+    "item": "flying_stuff:glaciated_planks_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "sound_event": "flying_stuff:underground_music_disk",
+  "description": {
+    "translate": "item.flying_stuff.underground_music_disk.desc"
+  },
+  "length_in_seconds": 95.0,
+  "comparator_output": 10
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "glaciated_leaves",
+        "missing": "glaciated_leaves"
+      },
+      "name": "default"
+    }
+  }
+}

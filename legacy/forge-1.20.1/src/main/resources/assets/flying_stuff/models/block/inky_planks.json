@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/inky_wood",
+    "up": "flying_stuff:block/inky_wood",
+    "north": "flying_stuff:block/inky_wood",
+    "east": "flying_stuff:block/inky_wood",
+    "south": "flying_stuff:block/inky_wood",
+    "west": "flying_stuff:block/inky_wood",
+    "particle": "flying_stuff:block/inky_wood"
+  },
+  "render_type": "solid"
+}

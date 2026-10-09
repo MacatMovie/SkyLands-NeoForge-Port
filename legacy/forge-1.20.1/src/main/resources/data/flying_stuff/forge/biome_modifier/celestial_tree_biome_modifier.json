@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "flying_stuff:the_underground",
+  "features": "flying_stuff:celestial_tree",
+  "step": "surface_structures"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "flying_stuff:displaysettings/gambling_machine.item",
+  "textures": {
+    "particle": "flying_stuff:block/gambling_machine_ice"
+  }
+}

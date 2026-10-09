@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "flying_stuff:glaciated_planks"
+    }
+  },
+  "result": {
+    "item": "flying_stuff:glaciated_wood_button",
+    "count": 1
+  }
+}

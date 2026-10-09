@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/firey_log_top",
+    "up": "flying_stuff:block/firey_log_top",
+    "north": "flying_stuff:block/firey_log",
+    "east": "flying_stuff:block/firey_log",
+    "south": "flying_stuff:block/firey_log",
+    "west": "flying_stuff:block/firey_log",
+    "particle": "flying_stuff:block/firey_log_top"
+  },
+  "render_type": "solid"
+}

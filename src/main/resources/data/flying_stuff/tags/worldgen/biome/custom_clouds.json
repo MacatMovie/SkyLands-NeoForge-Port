@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "flying_stuff:flying_islands",
+    "flying_stuff:glaciated_floating_islands",
+    "flying_stuff:lavic_floating_islands",
+    "flying_stuff:arid_floating_islands",
+    "flying_stuff:floating_cherry_grove",
+    "flying_stuff:floating_swamp"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "asset_id":"flying_stuff:headset",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.flying_stuff.headset"
+  },
+  "template_item": "flying_stuff:headset_armor_trim_smithing_template"
+}

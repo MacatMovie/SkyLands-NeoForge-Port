@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:delta_feature",
+  "config": {
+    "contents": {
+      "Name": "minecraft:water",
+      "Properties": {
+        "level": "0"
+      }
+    },
+    "rim": {
+      "Name": "flying_stuff:blue_grimstone"
+    },
+    "size": 16,
+    "rim_size": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/celestial_planks",
+    "up": "flying_stuff:block/celestial_planks",
+    "north": "flying_stuff:block/celestial_planks",
+    "east": "flying_stuff:block/celestial_planks",
+    "south": "flying_stuff:block/celestial_planks",
+    "west": "flying_stuff:block/celestial_planks",
+    "particle": "flying_stuff:block/celestial_planks"
+  },
+  "render_type": "solid"
+}

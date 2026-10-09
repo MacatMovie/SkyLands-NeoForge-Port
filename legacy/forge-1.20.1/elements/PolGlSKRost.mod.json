@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PolishedGlacitatedSkyrock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PolishedGlacitatedSkyrock"
+      },
+      {
+        "value": "CUSTOM:PolishedGlacitatedSkyrock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PolishedGlacitatedSkyrock"
+      },
+      {
+        "value": "CUSTOM:PolishedGlacitatedSkyrock"
+      },
+      {
+        "value": "CUSTOM:PolishedGlacitatedSkyrock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedGlaciatedSkyrockStairs"
+    },
+    "name": "pol_gl_sk_rost",
+    "namespace": "mod"
+  }
+}

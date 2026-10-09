@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "flying_stuff:glider"
+    },
+    {
+      "item": "flying_stuff:day_glider_design"
+    }
+  ],
+  "result": {
+    "item": "flying_stuff:glider",
+    "count": 1,
+    "nbt":"{canvas:17}"
+  }
+}

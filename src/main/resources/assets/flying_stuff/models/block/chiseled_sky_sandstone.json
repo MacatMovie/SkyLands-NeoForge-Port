@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/chiseled_sky_sandstone",
+    "up": "flying_stuff:block/chiseled_sky_sandstone",
+    "north": "flying_stuff:block/chiseled_sky_sandstone",
+    "east": "flying_stuff:block/chiseled_sky_sandstone",
+    "south": "flying_stuff:block/chiseled_sky_sandstone",
+    "west": "flying_stuff:block/chiseled_sky_sandstone",
+    "particle": "flying_stuff:block/chiseled_sky_sandstone"
+  },
+  "render_type": "solid"
+}

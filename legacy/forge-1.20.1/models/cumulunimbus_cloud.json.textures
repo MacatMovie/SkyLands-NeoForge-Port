@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "cloud_base",
+        "2": "cloud_realbig",
+        "3": "cloud_big1",
+        "4": "cloud_big0",
+        "5": "base_big",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

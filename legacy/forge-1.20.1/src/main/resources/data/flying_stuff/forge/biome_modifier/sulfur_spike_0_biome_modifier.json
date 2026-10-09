@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "flying_stuff:abyssal_forest",
+    "flying_stuff:the_underground"
+  ],
+  "features": "flying_stuff:sulfur_spike_0",
+  "step": "underground_structures"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "flying_stuff:item/cloud_icon"
+  },
+  "render_type": "translucent"
+}

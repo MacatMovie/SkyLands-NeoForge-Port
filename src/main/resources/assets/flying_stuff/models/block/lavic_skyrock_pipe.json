@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/metallic_tube_top",
+    "up": "flying_stuff:block/metallic_tube_top",
+    "north": "flying_stuff:block/metallic_tube",
+    "east": "flying_stuff:block/metallic_tube",
+    "south": "flying_stuff:block/metallic_tube",
+    "west": "flying_stuff:block/metallic_tube",
+    "particle": "flying_stuff:block/metallic_tube_top"
+  },
+  "render_type": "solid"
+}

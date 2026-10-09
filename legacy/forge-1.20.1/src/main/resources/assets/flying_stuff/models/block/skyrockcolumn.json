@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/chiseled_skyrock_top",
+    "up": "flying_stuff:block/chiseled_skyrock_top",
+    "north": "flying_stuff:block/skyrock_column",
+    "east": "flying_stuff:block/skyrock_column",
+    "south": "flying_stuff:block/skyrock_column",
+    "west": "flying_stuff:block/skyrock_column",
+    "particle": "flying_stuff:block/chiseled_skyrock_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "flying_stuff:arid_floating_islands",
+  "step": "top_layer_modification",
+  "spawn_overrides": {},
+  "start_pool": "flying_stuff:great_sky_desert",
+  "size": 7,
+  "start_height": {
+    "type": "minecraft:trapezoid",
+    "min_inclusive": {
+      "absolute": 320
+    },
+    "max_inclusive": {
+      "absolute": 470
+    }
+  },
+  "max_distance_from_center": 90,
+  "use_expansion_hack": false
+}

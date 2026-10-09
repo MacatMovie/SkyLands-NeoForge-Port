@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/sulfur_sand",
+    "up": "flying_stuff:block/sulfur_sand",
+    "north": "flying_stuff:block/sulfur_sand",
+    "east": "flying_stuff:block/sulfur_sand",
+    "south": "flying_stuff:block/sulfur_sand",
+    "west": "flying_stuff:block/sulfur_sand",
+    "particle": "flying_stuff:block/sulfur_sand"
+  },
+  "render_type": "solid"
+}

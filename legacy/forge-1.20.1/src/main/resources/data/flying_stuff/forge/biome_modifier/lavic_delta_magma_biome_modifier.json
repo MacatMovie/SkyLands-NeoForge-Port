@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "flying_stuff:lavic_floating_islands",
+  "features": "flying_stuff:lavic_delta_magma",
+  "step": "surface_structures"
+}

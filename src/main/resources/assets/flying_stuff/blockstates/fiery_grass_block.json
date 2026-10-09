@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "" : [
+    	{"model": "flying_stuff:block/fiery_grass_block"},
+    	{"model": "flying_stuff:block/fiery_grass_blockv1"},
+    	{"model": "flying_stuff:block/fiery_grass_blockv2"},
+    	{"model": "flying_stuff:block/fiery_grass_blockv3"}
+    	]
+  }
+}

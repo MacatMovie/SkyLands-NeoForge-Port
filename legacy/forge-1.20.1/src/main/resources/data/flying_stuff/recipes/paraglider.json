@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aba",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:wool"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "minecraft:leather"
+    },
+    "d": {
+      "item": "minecraft:string"
+    },
+    "e": {
+      "item": "flying_stuff:celestium"
+    }
+  },
+  "result": {
+    "item": "flying_stuff:glider",
+    "count": 1
+  }
+}

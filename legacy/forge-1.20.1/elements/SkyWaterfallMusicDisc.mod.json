@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "rarity": "UNCOMMON",
+    "texture": "sky_waterfall_disc",
+    "description": "DeepCanionStudio - Sky Waterfall",
+    "creativeTab": {
+      "value": "CUSTOM:SkyLandsItems"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:sky_waterfall"
+    },
+    "lengthInTicks": 1450,
+    "analogOutput": 1
+  }
+}

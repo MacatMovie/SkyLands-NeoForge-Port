@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "a a",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "flying_stuff:lavic_planks"
+    }
+  },
+  "result": {
+    "item": "flying_stuff:lavic_boat",
+    "count": 1
+  }
+}

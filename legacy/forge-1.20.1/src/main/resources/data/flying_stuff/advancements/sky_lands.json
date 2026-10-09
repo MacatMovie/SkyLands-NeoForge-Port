@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "flying_stuff:textures/screens/skyrock.png",
+    "icon": {
+      "item": "flying_stuff:fiery_grass_block"
+    },
+    "title": {
+      "translate": "advancements.sky_lands.title"
+    },
+    "description": {
+      "translate": "advancements.sky_lands.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "sky_lands_0": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

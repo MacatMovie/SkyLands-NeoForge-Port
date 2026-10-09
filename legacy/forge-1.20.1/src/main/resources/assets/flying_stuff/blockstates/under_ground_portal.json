@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "flying_stuff:block/under_ground_portal_ew"
+    },
+    "axis=x": {
+      "model": "flying_stuff:block/under_ground_portal_ns"
+    }
+  }
+}

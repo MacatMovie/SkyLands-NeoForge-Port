@@ -1,0 +1,13 @@
+{
+  "feature": "flying_stuff:glowing_grimstone_gen",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 5
+    },
+    {
+      "type": "minecraft:count_on_every_layer",
+      "count": 1
+    }
+  ]
+}

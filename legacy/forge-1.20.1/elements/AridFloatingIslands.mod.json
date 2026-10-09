@@ -1,0 +1,124 @@
+{
+  "_fv": 60,
+  "_type": "biome",
+  "definition": {
+    "name": "Arid Floating Islands",
+    "groundBlock": {
+      "value": "Blocks.SAND#0"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.SANDSTONE#0"
+    },
+    "underwaterBlock": {
+      "value": "Blocks.SAND#0"
+    },
+    "airColor": {
+      "value": -1518660,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -1121581,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -1254975,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -13241658,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -14890579,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": "CUSTOM:sky_wind"
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "CUSTOM:Cloud"
+    },
+    "particlesProbability": 0.002,
+    "rainingPossibility": 0.0,
+    "temperature": 1.7999999999999998,
+    "spawnBiome": true,
+    "spawnInCaves": false,
+    "spawnBiomeNether": false,
+    "genTemperature": {
+      "min": -1.0E-4,
+      "max": 0.0
+    },
+    "genHumidity": {
+      "min": -1.0,
+      "max": 0.3
+    },
+    "genContinentalness": {
+      "min": -0.2,
+      "max": 0.4
+    },
+    "genErosion": {
+      "min": -0.55,
+      "max": 1.0
+    },
+    "genWeirdness": {
+      "min": -0.45,
+      "max": 0.0
+    },
+    "treesPerChunk": 4,
+    "vanillaTreeType": "Default",
+    "treeType": 1,
+    "minHeight": 4,
+    "treeStem": {
+      "value": "Blocks.CACTUS"
+    },
+    "treeBranch": {
+      "value": "Blocks.AIR"
+    },
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "Fossils",
+      "DesertFeatures",
+      "DeadBushes",
+      "ExtraGoldOre"
+    ],
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NONE",
+    "spawnEntries": []
+  }
+}

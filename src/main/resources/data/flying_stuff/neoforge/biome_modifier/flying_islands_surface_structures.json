@@ -1,0 +1,17 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "flying_stuff:flying_islands",
+  "features": [
+    "flying_stuff:crm_01_feature",
+    "flying_stuff:dirt_patch",
+    "flying_stuff:fallen_is_01_feature",
+    "flying_stuff:fallen_is_02",
+    "flying_stuff:grass_patch",
+    "flying_stuff:spf_feature",
+    "flying_stuff:spl_01_feature",
+    "flying_stuff:spm_01_feature",
+    "flying_stuff:sps_01_feature",
+    "flying_stuff:tall_grass"
+  ],
+  "step": "surface_structures"
+}

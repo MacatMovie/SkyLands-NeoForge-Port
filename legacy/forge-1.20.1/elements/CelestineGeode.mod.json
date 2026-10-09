@@ -1,0 +1,13 @@
+{
+  "_fv": 60,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "UNDERGROUND_STRUCTURES",
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:TheUnderground"
+      }
+    ],
+    "featurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"feature_container\" deletable=\"false\" x=\"40\" y=\"40\"><value name=\"feature\"><block type=\"feature_geode_simple\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" inputs=\"1\"></mutation><field name=\"size\">1</field><field name=\"cannot_replace_tag\">features_cannot_replace</field><field name=\"invalid_blocks_count\">1</field><field name=\"invalid_blocks_tag\">geode_invalid_blocks</field><value name=\"filling\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.CAVE_AIR</field></block></value><value name=\"inner_layer\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Celestineblock</field></block></value><value name=\"alternate_inner_layer\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Celestineblock</field></block></value><value name=\"middle_layer\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:SulfurBlock</field></block></value><value name=\"outer_layer\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:SulfurBlock</field></block></value><value name=\"crystal0\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:CelestineSpike</field></block></value></block></value><next><block type=\"placement_height_triangular\"><value name=\"min\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">12</field></block></value><value name=\"max\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">364</field></block></value><next><block type=\"placement_rarity\"><field name=\"rarity\">3</field><next><block type=\"placement_in_square\"><next><block type=\"placement_block_predicate_filter\"><value name=\"condition\"><block type=\"block_predicate_not\"><value name=\"condition\"><block type=\"block_predicate_is_air\"></block></value></block></value></block></next></block></next></block></next></block></next></block></xml>"
+  }
+}

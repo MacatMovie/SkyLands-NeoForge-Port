@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "flying_stuff:block/skyrock_column_base",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "flying_stuff:block/skyrock_column_base"
+    },
+    "axis=z": {
+      "model": "flying_stuff:block/skyrock_column_base",
+      "x": 90
+    }
+  }
+}

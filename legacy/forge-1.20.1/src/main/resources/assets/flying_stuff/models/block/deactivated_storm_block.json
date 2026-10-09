@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/tornado_block_top",
+    "up": "flying_stuff:block/tornado_block_top",
+    "north": "flying_stuff:block/deactivatedstormblock",
+    "east": "flying_stuff:block/deactivatedstormblock",
+    "south": "flying_stuff:block/deactivatedstormblock",
+    "west": "flying_stuff:block/deactivatedstormblock",
+    "particle": "flying_stuff:block/tornado_block_top"
+  },
+  "render_type": "solid"
+}

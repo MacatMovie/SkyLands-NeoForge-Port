@@ -1,0 +1,16 @@
+{
+  "_fv": 60,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "RAW_GENERATION",
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:TheUnderground"
+      },
+      {
+        "value": "CUSTOM:AbyssalCity"
+      }
+    ],
+    "featurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"feature_container\" deletable=\"false\" x=\"40\" y=\"40\"><value name=\"feature\"><block type=\"feature_block_pile\"><value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:GlowingGrimstone</field></block></value></block></value><next><block type=\"placement_rarity\"><field name=\"rarity\">5</field><next><block type=\"placement_count_on_every_layer\"><value name=\"count\"><block type=\"int_provider_constant\"><field name=\"value\">1</field></block></value></block></next></block></next></block></xml>"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "flying_stuff:lavic_stem"
+    },
+    {
+      "item": "flying_stuff:lavic_stem"
+    },
+    {
+      "item": "flying_stuff:lavic_stem"
+    },
+    {
+      "item": "flying_stuff:lavic_stem"
+    }
+  ],
+  "result": {
+    "item": "flying_stuff:lavic_wood",
+    "count": 3
+  }
+}

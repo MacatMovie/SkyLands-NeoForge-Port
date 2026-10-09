@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "flying_stuff:fiery_button",
+    "flying_stuff:glaciated_wood_button",
+    "flying_stuff:lavic_button",
+    "flying_stuff:inky_button",
+    "flying_stuff:celestial_button"
+  ]
+}

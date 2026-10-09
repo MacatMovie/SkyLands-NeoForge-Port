@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "flying_stuff:shrine_floor_staircase",
+    "flying_stuff:shrine_tiles_staircase",
+    "flying_stuff:shrine_wall_staircase",
+    "flying_stuff:grimstone_tiles_stairs",
+    "flying_stuff:grimstone_bricks_stairs",
+    "flying_stuff:polished_grimstone_stairs",
+    "flying_stuff:grimstone_stairs",
+    "flying_stuff:celestial_stairs",
+    "flying_stuff:inky_mosaic_stairs",
+    "flying_stuff:inky_planks_stairs",
+    "flying_stuff:sky_sandstone_stairs",
+    "flying_stuff:sky_sandstone_brick_stairs",
+    "flying_stuff:polished_sky_sandstone_stairs",
+    "flying_stuff:lavic_planks_staircase",
+    "flying_stuff:lavic_skyrock_bricks_staircase",
+    "flying_stuff:polished_lavic_skyrock_staircase",
+    "flying_stuff:lavic_skyrock_staircase",
+    "flying_stuff:glaciated_planks_stairs",
+    "flying_stuff:glaciated_skyrock_bricks_stairs",
+    "flying_stuff:polished_glaciated_skyrock_stairs",
+    "flying_stuff:cobbled_glaciated_skyrock_stairs",
+    "flying_stuff:glaciated_skyrock_stairs",
+    "flying_stuff:fiery_planks_stairs",
+    "flying_stuff:polished_skyrock_stairs",
+    "flying_stuff:tiled_skyrock_stairs",
+    "flying_stuff:cobbled_skyrock_stairs",
+    "flying_stuff:skyrock_stairs"
+  ]
+}

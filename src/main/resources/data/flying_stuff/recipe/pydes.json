@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "flying_stuff:glider"
+    },
+    {
+      "item": "flying_stuff:pyramid_glider_design"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "flying_stuff:glider",
+    "components": {
+      "minecraft:custom_data": {
+        "canvas": 25
+      }
+    }
+  }
+}

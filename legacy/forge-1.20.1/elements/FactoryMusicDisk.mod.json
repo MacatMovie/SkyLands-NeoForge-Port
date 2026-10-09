@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disk",
+    "rarity": "UNCOMMON",
+    "texture": "lava_disk",
+    "description": "DeepCanionStudio - Pixel Factory",
+    "creativeTab": {
+      "value": "CUSTOM:SkyLandsItems"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:lava_disk"
+    },
+    "lengthInTicks": 1680,
+    "analogOutput": 13
+  }
+}

@@ -1,0 +1,225 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [ 32, 32 ],
+	"textures": {
+		"1": "Glider_tex",
+		"particle": "Glider_tex"
+	},
+	"elements": [
+		{
+			"from": [ 2, 14, 0 ],
+			"to": [ 14, 15, 16 ],
+			"faces": {
+				"north": {
+					"uv": [ 0, 9, 6, 9.5 ],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [ 0, 8, 8, 8.5 ],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [ 5.5, 0, 11.5, 0.5 ],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [ 8, 8, 16, 8.5 ],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [ 11.5, 8, 5.5, 0 ],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [ 11.5, 0, 5.5, 8 ],
+					"texture": "#1"
+				}
+			}
+		},
+		{
+			"from": [ 6, 12, 7 ],
+			"to": [ 7, 23, 9 ],
+			"rotation": {
+				"angle": -45,
+				"axis": "z",
+				"origin": [ 0, 0, 0 ]
+			},
+			"faces": {
+				"north": {
+					"uv": [ 0, 1, 0.5, 6.5 ],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [ 0, 1, 1, 6.5 ],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [ 0, 0.5, 0.5, 6 ],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [ 0, 1, 1, 6.5 ],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [ 0, 0, 0.5, 1 ],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [ 0, 0.5, 0.5, 1.5 ],
+					"texture": "#1"
+				}
+			}
+		},
+		{
+			"from": [ -11, 4.5, 7 ],
+			"to": [ 0, 5.5, 9 ],
+			"rotation": {
+				"angle": -45,
+				"axis": "z",
+				"origin": [ 0, 0, 0 ]
+			},
+			"faces": {
+				"north": {
+					"uv": [ 0, 0.5, 0.5, 6 ],
+					"rotation": 90,
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [ 0, 1, 0.5, 2 ],
+					"rotation": 270,
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [ 0, 0.5, 0.5, 6 ],
+					"rotation": 270,
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [ 0, 0, 0.5, 1 ],
+					"rotation": 270,
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [ 0, 1, 1, 6.5 ],
+					"rotation": 270,
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [ 0, 1, 1, 6.5 ],
+					"rotation": 270,
+					"texture": "#1"
+				}
+			}
+		},
+		{
+			"from": [ 7.1, 18.25, 0 ],
+			"to": [ 18.1, 19.25, 16 ],
+			"rotation": {
+				"angle": -22.5,
+				"axis": "z",
+				"origin": [ 0, 0, 0 ]
+			},
+			"faces": {
+				"north": {
+					"uv": [ 5.5, 8, 11, 8.5 ],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [ 0, 9, 8, 8.5 ],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [ 0, 0, 5.5, 0.5 ],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [ 0, 0, 8, 0.5 ],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [ 6.5, 0, 12, 8 ],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [ 6.5, 8, 12, 0 ],
+					"texture": "#1"
+				}
+			}
+		},
+		{
+			"from": [ -3.4, 12.1, 0 ],
+			"to": [ 7.6, 13.1, 16 ],
+			"rotation": {
+				"angle": 22.5,
+				"axis": "z",
+				"origin": [ 0, 0, 0 ]
+			},
+			"faces": {
+				"north": {
+					"uv": [ 10.5, 8.5, 16, 9 ],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [ 0, 0, 8, 0.5 ],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [ 0, 8, 5.5, 8.5 ],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [ 0, 8.5, 8, 9 ],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [ 5, 0, 10.5, 8 ],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [ 5, 8, 10.5, 0 ],
+					"texture": "#1"
+				}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [ 85, 0, 0 ],
+			"translation": [ -5.75, 0.5, 21 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ -16, 1, 0 ],
+			"translation": [ -9, 11, 9 ],
+			"scale": [ 1.16, 1.36, 1.38 ]
+		},
+		"firstperson_lefthand": {
+			"rotation": [ -24, 0, 0 ],
+			"translation": [ -9, 10.25, 7.75 ],
+			"scale": [ 1, 1.49, 1 ]
+		},
+		"ground": {
+			"scale": [ 0.51, 0.87, 0.51 ]
+		},
+		"gui": {
+			"rotation": [ 23, -34, 11 ],
+			"translation": [ 1, -1.5, 0 ],
+			"scale": [ 0.59, 0.94, 0.61 ]
+		},
+		"head": {
+			"translation": [ 0, 8.25, 0 ]
+		},
+		"fixed": {
+			"rotation": [ 5, 0, 43 ],
+			"scale": [ 0.66, 0.69, 0.52 ]
+		}
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"trim_type": 1.1
+			},
+			"model": "flying_stuff:item/glider/test"
+		}
+	]
+}

@@ -1,0 +1,118 @@
+{
+  "_fv": 60,
+  "_type": "biome",
+  "definition": {
+    "name": "Floating Cherry Blossom",
+    "groundBlock": {
+      "value": "Blocks.TUFF"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.TUFF"
+    },
+    "underwaterBlock": {
+      "value": "Blocks.TUFF"
+    },
+    "grassColor": {
+      "value": -2628532,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -2564020,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -12283170,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -12287010,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": "CUSTOM:sky_wind"
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "FALLING_CHERRY_LEAVES"
+    },
+    "particlesProbability": 0.03,
+    "rainingPossibility": 0.0,
+    "temperature": 1.2000000000000002,
+    "spawnBiome": true,
+    "spawnInCaves": false,
+    "spawnBiomeNether": false,
+    "genTemperature": {
+      "min": 0.0,
+      "max": 1.0E-4
+    },
+    "genHumidity": {
+      "min": 0.0,
+      "max": 1.0E-4
+    },
+    "genContinentalness": {
+      "min": 0.0,
+      "max": 1.0E-4
+    },
+    "genErosion": {
+      "min": 0.0,
+      "max": 1.0E-4
+    },
+    "genWeirdness": {
+      "min": 0.0,
+      "max": 1.0E-4
+    },
+    "treesPerChunk": 0,
+    "vanillaTreeType": "Birch trees",
+    "treeType": 0,
+    "minHeight": 2,
+    "treeStem": {
+      "value": "Blocks.CHERRY_LOG"
+    },
+    "treeBranch": {
+      "value": "Blocks.CHERRY_LEAVES"
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "JungleGrass",
+      "TaigaLargeFerns"
+    ],
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NONE",
+    "spawnEntries": []
+  }
+}

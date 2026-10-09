@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "flying_stuff:block/shrine_wall",
+    "top": "flying_stuff:block/shrine_wall",
+    "side": "flying_stuff:block/shrine_wall"
+  },
+  "render_type": "solid"
+}

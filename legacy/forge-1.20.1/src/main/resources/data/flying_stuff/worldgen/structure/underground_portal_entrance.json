@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:jigsaw",
+  "start_pool": "flying_stuff:underground_portal_entrance",
+  "size": 1,
+  "max_distance_from_center": 64,
+  "spawn_overrides": {},
+  "step": "underground_structures",
+  "terrain_adaptation": "none",
+  "start_height": {
+    "absolute": -62
+  },
+  "biomes": [
+    "flying_stuff:arid_floating_islands",
+    "flying_stuff:floating_cherry_grove",
+    "flying_stuff:floating_swamp",
+    "flying_stuff:flying_islands",
+    "flying_stuff:glaciated_floating_islands",
+    "flying_stuff:lavic_floating_islands",
+    "taiga",
+    "savanna",
+    "cherry_grove",
+    "desert",
+    "plains",
+    "snowy_plains"
+  ],
+  "use_expansion_hack": false
+}

@@ -1,0 +1,96 @@
+{
+  "_fv": 60,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "stamina_under.png",
+          "use1Xscale": false,
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 166,
+          "y": 170
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "stamina_over.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "GliderFirstStamina"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 164,
+          "y": 170
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "stamina_over.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "GliderStamina2"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 185,
+          "y": 170
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "stamina_over.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "GliderStamina3"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 206,
+          "y": 170
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "stamina_over.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "GliderStamina4"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 227,
+          "y": 170
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "stamina_over.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "GliderStamina5"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 249,
+          "y": 170
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "displayCondition": {
+      "name": "GliderStaminaDisplayOverlayIngame"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

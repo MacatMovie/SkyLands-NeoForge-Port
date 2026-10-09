@@ -1,0 +1,7 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "flying_stuff:block/inky_wood"
+  },
+  "render_type": "solid"
+}

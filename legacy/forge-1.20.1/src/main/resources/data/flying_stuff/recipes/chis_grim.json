@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "flying_stuff:polished_grimstone_slab"
+    }
+  },
+  "result": {
+    "item": "flying_stuff:chiseled_grimstone",
+    "count": 1
+  }
+}

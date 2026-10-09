@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "flying_stuff:grimstone_micelium"
+    },
+    "title": {
+      "translate": "advancements.abyssal_discovery.title"
+    },
+    "description": {
+      "translate": "advancements.abyssal_discovery.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "abyssal_discovery_0": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "flying_stuff:under_ground"
+      }
+    }
+  },
+  "parent": "flying_stuff:into_the_sky"
+}

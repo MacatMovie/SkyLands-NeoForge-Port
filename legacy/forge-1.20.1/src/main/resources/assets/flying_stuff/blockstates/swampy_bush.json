@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "flying_stuff:block/swampy_bush"
+    },
+    "half=lower": {
+      "model": "flying_stuff:block/swampy_bush_bottom"
+    }
+  }
+}

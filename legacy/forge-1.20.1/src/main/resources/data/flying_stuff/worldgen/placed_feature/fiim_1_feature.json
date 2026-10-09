@@ -1,0 +1,33 @@
+{
+  "feature": "flying_stuff:fiim_1_feature",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 40
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": {
+          "absolute": 340
+        },
+        "max_inclusive": {
+          "below_top": 100
+        }
+      }
+    },
+    {
+      "type": "minecraft:surface_relative_threshold_filter",
+      "heightmap": "OCEAN_FLOOR_WG",
+      "min_inclusive": 8,
+      "max_inclusive": 300
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

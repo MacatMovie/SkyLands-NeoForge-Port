@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flying_stuff:block/skymetal",
+    "up": "flying_stuff:block/skymetal",
+    "north": "flying_stuff:block/skymetal",
+    "east": "flying_stuff:block/skymetal",
+    "south": "flying_stuff:block/skymetal",
+    "west": "flying_stuff:block/skymetal",
+    "particle": "flying_stuff:block/skymetal"
+  },
+  "render_type": "solid"
+}

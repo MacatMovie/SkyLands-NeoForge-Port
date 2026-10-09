@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "flying_stuff:raw_tuc_tuc_wing"
+  },
+  "result": "flying_stuff:cooked_tuc_tuc_wing"
+}

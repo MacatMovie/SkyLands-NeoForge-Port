@@ -1,0 +1,56 @@
+{
+  "_fv": 60,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "floatberry",
+    "customModelName": "Ranged item",
+    "customProperties": {},
+    "states": [],
+    "name": "Float Grape",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:SkyLandsItems"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 72,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "enableRanged": true,
+    "shootConstantly": false,
+    "projectile": {
+      "value": "CUSTOM:FloatGrapeProj"
+    },
+    "onRangedItemUsed": {
+      "name": "FloatGrapeRangedItemUsed"
+    },
+    "isFood": false,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": false,
+    "isAlwaysEdible": false,
+    "animation": "bow"
+  }
+}

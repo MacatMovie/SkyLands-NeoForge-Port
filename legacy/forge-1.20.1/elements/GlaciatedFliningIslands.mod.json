@@ -1,0 +1,126 @@
+{
+  "_fv": 60,
+  "_type": "biome",
+  "definition": {
+    "name": "Glaciated Sky Islands",
+    "groundBlock": {
+      "value": "Blocks.STONE#3"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.STONE#3"
+    },
+    "underwaterBlock": {
+      "value": "Blocks.STONE#3"
+    },
+    "airColor": {
+      "value": -3355444,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -12986113,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -10230273,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -16750849,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -16763956,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": "CUSTOM:glaciated_sky"
+    },
+    "moodSound": {
+      "value": "CUSTOM:glaciated_sky"
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "CUSTOM:Snowfall0"
+    },
+    "particlesProbability": 0.30100000000000005,
+    "rainingPossibility": 0.1,
+    "temperature": 0.13,
+    "spawnBiome": true,
+    "spawnInCaves": false,
+    "spawnBiomeNether": false,
+    "genTemperature": {
+      "min": 0.0,
+      "max": 1.0E-4
+    },
+    "genHumidity": {
+      "min": -0.7,
+      "max": 0.9
+    },
+    "genContinentalness": {
+      "min": 0.4535,
+      "max": 1.0021
+    },
+    "genErosion": {
+      "min": -0.9,
+      "max": 0.2921
+    },
+    "genWeirdness": {
+      "min": -0.1,
+      "max": 0.5
+    },
+    "treesPerChunk": 4,
+    "vanillaTreeType": "Birch trees",
+    "treeType": 1,
+    "minHeight": 11,
+    "treeStem": {
+      "value": "Blocks.LOG#2"
+    },
+    "treeBranch": {
+      "value": "Blocks.LEAVES#0"
+    },
+    "treeVines": {
+      "value": "Blocks.VINE"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer",
+      "Icebergs",
+      "PlainsTallGrass",
+      "TaigaLargeFerns",
+      "SwampVegetation",
+      "JungleGrass"
+    ],
+    "spawnStronghold": true,
+    "spawnMineshaft": true,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NONE",
+    "spawnEntries": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "feature": "flying_stuff:cfim_1",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 105
+    },
+    {
+      "type": "minecraft:count",
+      "count": {
+        "type": "uniform",
+        "value": {
+          "min_inclusive": 1,
+          "max_inclusive": 3
+        }
+      }
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": {
+          "absolute": 300
+        },
+        "max_inclusive": {
+          "below_top": 100
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

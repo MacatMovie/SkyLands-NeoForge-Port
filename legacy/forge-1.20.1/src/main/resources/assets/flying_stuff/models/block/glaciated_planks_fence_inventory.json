@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "flying_stuff:block/glaciated_planks",
+    "particle": "flying_stuff:block/glaciated_planks"
+  },
+  "render_type": "solid"
+}

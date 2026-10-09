@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "flying_stuff:flying_islands",
+  "features": "flying_stuff:fallen_is_02",
+  "step": "surface_structures"
+}

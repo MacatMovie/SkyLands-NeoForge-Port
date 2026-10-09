@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "flying_stuff:celestial_planks"
+    }
+  },
+  "result": {
+    "count": 6,
+    "id": "flying_stuff:celestial_slab"
+  }
+}

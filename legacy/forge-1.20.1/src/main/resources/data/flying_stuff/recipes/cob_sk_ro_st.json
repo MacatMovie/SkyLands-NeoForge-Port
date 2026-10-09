@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "flying_stuff:cobbled_skyrock"
+    }
+  },
+  "result": {
+    "item": "flying_stuff:cobbled_skyrock_stairs",
+    "count": 4
+  }
+}
